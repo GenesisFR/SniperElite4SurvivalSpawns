@@ -2,59 +2,73 @@
 
 A document listing all sniper/vehicle spawns in the survival mode of Sniper Elite 4.
 
-Dockyard solo
-
-WAVE 4 - 1 AB41  
-WAVE 5 - 1 SNIPER  
-WAVE 6 - 1 TANK  
-WAVE 9 - 2 SNIPERS, 1 TANK  
-WAVE 11 - 1 SNIPER  
-WAVE 12 - 2 TANKS
-
-Facility solo
-
-WAVE 1 - 1 TRUCK  
-WAVE 2 - 1 AB41  
-WAVE 3 - 1 KFZ251  
-WAVE 4 - 1 SNIPER, 1 AB41  
-WAVE 5 - 1 SNIPER, 1 KFZ222, 1 TRUCK  
-WAVE 6 - 1 KFZ251  
-WAVE 7 - 1 SNIPER, 1 AB41  
-WAVE 8 - 1 KFZ222, 1 AB41  
-WAVE 9 - 2 SNIPERS, 1 KFZ222, 1 TANK  
-WAVE 10 - 2 AB41  
-WAVE 11 - 1 SNIPER, 1 KFZ222  
-WAVE 12 - 2 TANKS
-
-Urban solo
-
-WAVE 2 - 1 SNIPER  
-WAVE 4 - 1 SNIPER  
-WAVE 6 - 1 SNIPER  
-WAVE 7 - 1 SNIPER (spawns at 15)  
-WAVE 8 - 2 SNIPERS  
-WAVE 9 - 1 SNIPER  
-WAVE 10 - 2 SNIPERS  
-WAVE 11 - 2 SNIPERS  
-WAVE 12 - 2 SNIPERS (maybe 3?)
-
-Village solo
-
-WAVE 5 - 2 SNIPERS  
-WAVE 9 - 2 SNIPERS, 1 TANK  
-WAVE 12 - 2 TANKS
-
-Winter Market solo
-
-WAVE 2 - 1 AB41  
-WAVE 4 - 1 AB41  
-WAVE 5 - 2 SNIPERS  
-WAVE 6 - 1 AB41  
-WAVE 7 - 1 KFZ222  
-WAVE 9 - ? SNIPER, 1 TANK  
-WAVE 10 - ? SNIPER  
-WAVE 11 - ? SNIPER  
-WAVE 12 - ? SNIPER, 2 TANKS
+|  Map  |   Wave   | Solo | 2-man | 3-man | 4-man | 
+| :---: | :------: | ---- | ----- | ----- | ----- |
+| Dockyard |
+|          | 1 |  |  |  |  | 
+|          | 2 |  |  |  |  | 
+|          | 3 |  |  |  |  | 
+|          | 4 | 1 AB41 |  |  |  | 
+|          | 5 | 1 SNIPER |  |  |  | 
+|          | 6 | 1 TANK |  |  |  | 
+|          | 7 |  |  |  |  | 
+|          | 8 |  |  |  |  | 
+|          | 9 | 2 SNIPERS, 1 TANK |  |  |  | 
+|          | 10 |  |  |  |  | 
+|          | 11 | 1 SNIPER |  |  |  | 
+|          | 12 | 2 TANKS |  |  |  | 
+| Facility |
+|          | 1 |  1 TRUCK |  |  |  | 
+|          | 2 |  1 AB41 |  |  |  | 
+|          | 3 |  1 KFZ251 |  |  |  | 
+|          | 4 | 1 SNIPER, 1 AB41 |  |  |  | 
+|          | 5 | 1 SNIPER, 1 KFZ222, 1 TRUCK |  |  |  | 
+|          | 6 | 1 KFZ251 |  |  |  | 
+|          | 7 | 1 SNIPER, 1 AB41 |  |  |  | 
+|          | 8 | 1 KFZ222, 1 AB41 |  |  |  | 
+|          | 9 | 2 SNIPERS, 1 KFZ222, 1 TANK |  |  |  | 
+|          | 10 | 2 AB41 |  |  |  | 
+|          | 11 | 1 SNIPER, 1 KFZ222 |  |  |  | 
+|          | 12 | 2 TANKS |  |  |  | 
+| Urban |
+|          | 1 |  |  |  |  | 
+|          | 2 | 1 SNIPER |  |  |  | 
+|          | 3 |  |  |  |  | 
+|          | 4 | 1 SNIPER |  |  |  | 
+|          | 5 |  |  |  |  | 
+|          | 6 | 1 SNIPER |  |  |  | 
+|          | 7 | 1 SNIPER (spawns at 15) |  |  |  | 
+|          | 8 | 2 SNIPERS |  |  |  | 
+|          | 9 | 1 SNIPER |  |  |  | 
+|          | 10 | 2 SNIPERS |  |  |  | 
+|          | 11 | 2 SNIPERS |  |  |  | 
+|          | 12 | 2 SNIPERS (maybe 3?) |  |  |  | 
+| Village |
+|          | 1 |  |  |  |  | 
+|          | 2 |  |  |  |  | 
+|          | 3 |  |  |  |  | 
+|          | 4 |  |  |  |  | 
+|          | 5 | 2 SNIPERS  |  |  |  | 
+|          | 6 |  |  |  |  | 
+|          | 7 |  |  |  |  | 
+|          | 8 |  |  |  |  | 
+|          | 9 | 2 SNIPERS, 1 TANK |  |  |  | 
+|          | 10 |  |  |  |  | 
+|          | 11 |  |  |  |  | 
+|          | 12 | 2 TANKS |  |  |  | 
+| Winter Market |
+|          | 1 | |  |  |  | 
+|          | 2 | 1 AB41 |  |  |  | 
+|          | 3 |  |  |  |  | 
+|          | 4 | 1 AB41 |  |  |  | 
+|          | 5 | 2 SNIPERS |  |  |  | 
+|          | 6 | 1 AB41 |  |  |  | 
+|          | 7 | 1 KFZ222 |  |  |  | 
+|          | 8 |  |  |  |  | 
+|          | 9 | ? SNIPER, 1 TANK |  |  |  | 
+|          | 10 | ? SNIPER |  |  |  | 
+|          | 11 | ? SNIPER |  |  |  | 
+|          | 12 | ? SNIPER, 2 TANKS |  |  |  | 
 
 Dockyard 4-man
 
