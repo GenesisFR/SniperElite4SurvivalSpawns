@@ -1,6 +1,6 @@
 # Sniper Elite 4 Survival Spawns
 
-A document listing all sniper/vehicle spawns in the survival mode of Sniper Elite 4.
+A document listing all sniper/vehicle spawns in the survival mode of Sniper Elite 4 on Authentic Plus difficulty.
 
 |  Map          | Wave | Solo | 2 players | 3 players | 4 players | Notes |
 | :-----------: | :--: | ---- | --------- | --------- | --------- | ----- |
@@ -64,9 +64,9 @@ A document listing all sniper/vehicle spawns in the survival mode of Sniper Elit
 |               | 5  | 2 SNIPERS | ??? | ??? | 3 SNIPERS (1 end of wave) |
 |               | 6  | 1 AB41 | ??? | ??? | 1 SNIPER, 1 TANK |
 |               | 7  | 1 KFZ222 | ??? | ??? | 1 SNIPER, 1 KFZ222 |
-|               | 8  | ??? | ??? | ??? | 4 SNIPERS |
-|               | 9  | 1 TANK | ??? | ??? | 3 SNIPERS, 2 TANKS |
-|               | 10 | ??? | ??? | ??? | 1 SNIPER, 1 TANK |
+|               | 8  |  | ??? | ??? | 4 SNIPERS |
+|               | 9  | 2 SNIPERS, 1 TANK | ??? | ??? | 3 SNIPERS, 2 TANKS |
+|               | 10 |  | ??? | ??? | 1 SNIPER, 1 TANK |
 |               | 11 |
 |               | 12 | 2 TANKS | 2 TANKS | 2 TANKS | 2 TANKS |
 
