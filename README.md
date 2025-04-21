@@ -1,5 +1,9 @@
 # Sniper Elite 4 Survival Spawns
 
+In this document, you'll find all sniper/vehicle spawns and enemy count per wave in every single survival map of Sniper Elite 4 on the Authentic Plus difficulty. I don't know if lower difficulties have the same spawns and I won't cover those.
+
+Please note that "solo" was done through a multiplayer lobby, not by selecting "Single Player -> Solo Survival" (which has different spawns that won't be covered here).
+
 ## Table of Contents
 
 * [Dockyard](#dockyard)
@@ -10,24 +14,22 @@
 * [References](#references)
 * [Credits](#credits)
 
-A document listing all sniper/vehicle spawns in the survival mode of Sniper Elite 4 on Authentic Plus difficulty.
-
 ## Dockyard
 
-| Wave | Solo | 2 players | 3 players | 4 players | Notes |
-| :--: | ---- | --------- | --------- | --------- | ----- |
-| 1 |
-| 2 |  |  |  | 1 SNIPER |
-| 3 |
-| 4 | 1 AB41 | 1 AB41 | 1 AB41 | 1 AB41 | 
-| 5 | 1 SNIPER | ??? | ??? | 3 SNIPERS |
-| 6 | 1 TANK | ??? | ??? | 1 SNIPER, 1 TANK |
-| 7 |  |  |  | 1 SNIPER (spawns at 15) |
-| 8 |  | ??? | ??? | 2 SNIPERS |
-| 9 | 2 SNIPERS, 1 TANK | ??? | ??? | 3 SNIPERS, 1AB41, 1 TANK |
-| 10 |  | ??? | ??? | 2 SNIPERS |
-| 11 | 1 SNIPER | ??? | ??? | 2 SNIPERS |
-| 12 | 2 TANKS | 2 TANKS | 2 TANKS | 2 TANKS |
+| Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
+| :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
+| 1 |  | 12 |  |  |  |  |  |  |
+| 2 |  | 14 |  |  |  |  | 1 SNIPER |  |
+| 3 |  | 15 |  |  |  |  |  |  |
+| 4 | 1 AB41 | 15 | 1 AB41 |  | 1 AB41 |  | 1 AB41 |  |
+| 5 | 1 SNIPER | 19 | ??? |  | ??? |  | 3 SNIPERS |  |
+| 6 | 1 TANK | 19 | ??? |  | ??? |  | 1 SNIPER, 1 TANK |  |
+| 7 |  | 20 |  |  |  |  | 1 SNIPER (spawns at 15) |  |
+| 8 |  | 20 | ??? |  | ??? |  | 2 SNIPERS |  |
+| 9 | 2 SNIPERS, 1 TANK | 15 | ??? |  | ??? |  | 3 SNIPERS, 1 AB41, 1 TANK |
+| 10 |  | 22 | ??? |  | ??? |  | 2 SNIPERS |  |
+| 11 | 1 SNIPER | 27 | ??? |  | ??? |  | 2 SNIPERS |  |
+| 12 | 2 TANKS | 29 | 2 TANKS |  | 2 TANKS |  | 2 TANKS |  |
 
 Sniper locations:  
 
@@ -42,20 +44,20 @@ Sniper locations:
 
 ## Facility
 
-| Wave | Solo | 2 players | 3 players | 4 players | Notes |
-| :--: | ---- | --------- | --------- | --------- | ----- |
-| 1 | 1 TRUCK | 1 TRUCK | 1 TRUCK | 1 TRUCK |
-| 2 | 1 AB41 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 | 2 SNIPERS, 1 AB41 |
-| 3 | 1 KFZ251 | 1 SNIPER, 1 KFZ251 | 1 SNIPER, 1 KFZ251 | 2 SNIPERS, 2 KFZ251 |
-| 4 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 |
-| 5 | 1 SNIPER, 1 KFZ222, 1 TRUCK | 1 SNIPER, 1 KFZ222, 1 TRUCK | 1 SNIPER, 1 KFZ222, 1 TRUCK | 2 SNIPERS, 1 KFZ222, 1 TRUCK |
-| 6 | 1 KFZ251 |  1 KFZ251, 1 TANK |  1 KFZ251, 1 TANK | 1 KFZ251, 1 TANK |
-| 7 | 1 SNIPER, 1 AB41 | 2 SNIPERS, 1 AB41 |  3 SNIPERS, 1 AB41 | 3 SNIPERS, 1 AB41 |
-| 8 | 1 KFZ222, 1 AB41 | 2 KFZ222 | 1 SNIPER, 1 AB41, 2 KFZ222 | 1 SNIPER, 2 AB41, 2 KFZ222 |
-| 9 | 2 SNIPERS, 1 KFZ251, 1 TANK | 2 SNIPERS, 1 KFZ251, 1 TANK | 2 SNIPERS, 1 KFZ251, 1 TANK | 2 SNIPERS, 2 KFZ251, 1 TANK |
-| 10 | 2 AB41 | ??? | 2 SNIPERS, 1 KFZ222, 1 AB41 | 2 SNIPERS, 1 KFZ222, 2 AB41 |
-| 11 | 1 SNIPER, 1 KFZ251 | 1 SNIPER, 2 KFZ251 | 1 SNIPER, 2 KFZ251 | 1 SNIPER, 2 KFZ251 |
-| 12 | 2 TANKS | 2 TANKS | 2 TANKS | 3 TANKS |
+| Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
+| :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
+| 1 | 1 TRUCK | 16 | 1 TRUCK |  | 1 TRUCK |  | 1 TRUCK |  |
+| 2 | 1 AB41 | 16 | 1 SNIPER, 1 AB41 |  | 1 SNIPER, 1 AB41 |  | 2 SNIPERS, 1 AB41 |  |
+| 3 | 1 KFZ251 | 20 | 1 SNIPER, 1 KFZ251 |  | 1 SNIPER, 1 KFZ251 |  | 2 SNIPERS, 2 KFZ251 |  |
+| 4 | 1 SNIPER, 1 AB41 | 20 | 1 SNIPER, 1 AB41 |  | 1 SNIPER, 1 AB41 | 34 | 1 SNIPER, 1 AB41 |  |
+| 5 | 1 SNIPER, 1 KFZ222, 1 TRUCK | 22 | 1 SNIPER, 1 KFZ222, 1 TRUCK |  | 1 SNIPER, 1 KFZ222, 1 TRUCK | 38 | 2 SNIPERS, 1 KFZ222, 1 TRUCK |  |
+| 6 | 1 KFZ251 | 22 | 1 KFZ251, 1 TANK |  | 1 KFZ251, 1 TANK | 38 | 1 KFZ251, 1 TANK |  |
+| 7 | 1 SNIPER, 1 AB41 | 22 | 2 SNIPERS, 1 AB41 |  | 3 SNIPERS, 1 AB41 | 38 | 3 SNIPERS, 1 AB41 |  |
+| 8 | 1 KFZ222, 1 AB41 | 22 | 2 KFZ222 |  | 1 SNIPER, 1 AB41, 2 KFZ222 | 38 | 1 SNIPER, 2 AB41, 2 KFZ222 |  |
+| 9 | 2 SNIPERS, 1 KFZ251, 1 TANK | 22 | 2 SNIPERS, 1 KFZ251, 1 TANK |  | 2 SNIPERS, 1 KFZ251, 1 TANK | 40 | 2 SNIPERS, 2 KFZ251, 1 TANK |  |
+| 10 | 2 AB41 | 26 | ??? |  | 2 SNIPERS, 1 KFZ222, 1 AB41 | 40 | 2 SNIPERS, 1 KFZ222, 2 AB41 |  |
+| 11 | 1 SNIPER, 1 KFZ251 | 28 | 1 SNIPER, 2 KFZ251 |  | 1 SNIPER, 2 KFZ251 | 47 | 1 SNIPER, 2 KFZ251 |  |
+| 12 | 2 TANKS | 30 | 2 TANKS |  | 2 TANKS | 47 | 3 TANKS |  |
 
 Sniper locations:  
 
@@ -69,20 +71,20 @@ Sniper locations:
 
 ## Urban
 
-| Wave | Solo | 2 players | 3 players | 4 players | Notes |
-| :--: | ---- | --------- | --------- | --------- | ----- |
-| 1 | 
-| 2 | 1 SNIPER | 1 SNIPER | 1 SNIPER | 2 SNIPERS |
-| 3 |  |  |  | 1 SNIPER |
-| 4 | 1 SNIPER | 1 SNIPER | 1 SNIPER (sometimes 2) | 2 SNIPERS |
-| 5 |
-| 6 | 1 SNIPER | 1 SNIPER | 1 SNIPER | 2 SNIPERS (second late?) |
-| 7 | 1 SNIPER (spawns at 15) | 1 SNIPER | 1 SNIPER | 2 SNIPERS |
-| 8 | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS |
-| 9 | 1 SNIPER | 2 SNIPERS | 2 SNIPERS | 3 SNIPERS |
-| 10 | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS |
-| 11 |  |  | 1 SNIPER | 2 SNIPERS |
-| 12 | 2 SNIPERS (maybe 3?) | 2 SNIPERS | 2 SNIPERS | 3 SNIPERS (maybe 4?) |
+| Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
+| :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
+| 1 |  | 15 |  |  |  |  |  |  |  |
+| 2 | 1 SNIPER | 15 | 1 SNIPER |  | 1 SNIPER |  | 2 SNIPERS |  |
+| 3 |  | 19 |  |  |  |  | 1 SNIPER |  |
+| 4 | 1 SNIPER | 20 | 1 SNIPER |  | 1 SNIPER (sometimes 2) |  | 2 SNIPERS |  |
+| 5 |  | 20 |  |  |  |  |  |  |  |
+| 6 | 1 SNIPER | 22 | 1 SNIPER |  | 1 SNIPER |  | 2 SNIPERS (second late?) |  |
+| 7 | 1 SNIPER (spawns at 15) | 25 | 1 SNIPER |  | 1 SNIPER |  | 2 SNIPERS |  |
+| 8 | 2 SNIPERS | 22 | 2 SNIPERS |  | 2 SNIPERS |  | 2 SNIPERS |  |
+| 9 | 1 SNIPER | 25 | 2 SNIPERS |  | 2 SNIPERS |  | 3 SNIPERS |  |
+| 10 | 2 SNIPERS | 26 | 2 SNIPERS |  | 2 SNIPERS |  | 2 SNIPERS |  |
+| 11 | 1 SNIPER | 29 | 1 SNIPER |  | 1 SNIPER |  | 2 SNIPERS |  |
+| 12 | 2 SNIPERS | 31 | 2 SNIPERS |  | 2 SNIPERS |  | 3 SNIPERS (maybe 4?) |  |
 
 Sniper locations:  
 
@@ -96,20 +98,20 @@ Sniper locations:
 
 ## Village
 
-| Wave | Solo | 2 players | 3 players | 4 players | Notes |
-| :--: | ---- | --------- | --------- | --------- | ----- |
-| 1 |
-| 2 |  |  |  | 1 SNIPER |
-| 3 |
-| 4 |  | ??? | ??? | 1 SNIPER, 1 AB41 |
-| 5 | 2 SNIPERS  | ??? | ??? | 3 SNIPERS |
-| 6 |  | ??? | ??? | 2 SNIPERS, 1 TANK |
-| 7 |  | ??? | ??? | 1 SNIPER |
-| 8 |  | ??? | ??? | 4 SNIPERS |
-| 9 | 2 SNIPERS, 1 TANK | ??? | ??? | 2 SNIPERS, 2 TANKS |
-| 10 |  | ??? | ??? | 1 SNIPER, 1 AB41 |
-| 11 |
-| 12 | 2 TANKS | ??? | ??? | 1 SNIPER, 2 TANKS |
+| Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
+| :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
+| 1 |  | 11 |  |  |  |  |  |  |
+| 2 |  | 14 |  |  |  |  | 1 SNIPER |  |
+| 3 |  | 17 |  |  |  |  |  |  |
+| 4 |  | 15 | ??? |  | ??? |  | 1 SNIPER, 1 AB41 |  |
+| 5 | 2 SNIPERS | 20 | ??? |  | ??? |  | 3 SNIPERS |  |
+| 6 |  | 18 | ??? |  | ??? |  | 2 SNIPERS, 1 TANK |  |
+| 7 |  | 25 | ??? |  | ??? |  | 1 SNIPER |  |
+| 8 |  | 19 | ??? |  | ??? |  | 4 SNIPERS |  |
+| 9 | 2 SNIPERS, 1 TANK | 15 | ??? |  | ??? |  | 2 SNIPERS, 2 TANKS |
+| 10 |  | 20 | ??? |  | ??? |  | 1 SNIPER, 1 AB41 |  |
+| 11 |  | 29 |  |  |  |  |  |  |
+| 12 | 2 TANKS | 31 | ??? |  | ??? |  | 1 SNIPER, 2 TANKS |  |
 
 Sniper locations:  
 
@@ -123,20 +125,20 @@ Sniper locations:
 
 ## Winter Market
 
-| Wave | Solo | 2 players | 3 players | 4 players | Notes |
-| :--: | ---- | --------- | --------- | --------- | ----- |
-| 1 |
-| 2 | 1 AB41 | ??? | ??? | 1 SNIPER (end of wave), 1 AB41 |
-| 3 |  | ??? | ??? | 1 SNIPER |
-| 4 | 1 AB41 | ??? | ??? | 1 SNIPER, 1 TANK |
-| 5 | 2 SNIPERS | ??? | ??? | 3 SNIPERS (1 end of wave) |
-| 6 | 1 AB41 | ??? | ??? | 1 SNIPER, 1 TANK |
-| 7 | 1 KFZ222 | ??? | ??? | 1 SNIPER, 1 KFZ222 |
-| 8 |  | ??? | ??? | 4 SNIPERS |
-| 9 | 2 SNIPERS, 1 TANK | ??? | ??? | 3 SNIPERS, 2 TANKS |
-| 10 |  | ??? | 1 SNIPER, 1 AB41, 1 TANK | 1 SNIPER, 1 AB41, 1 TANK |
-| 11 |
-| 12 | 2 TANKS | 2 TANKS | 2 TANKS | 2 TANKS |
+| Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
+| :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
+| 1 |  | 12 |  |  |  |  |  |  |  |
+| 2 | 1 AB41 | 15 | ??? |  | ??? |  | 1 SNIPER (end of wave), 1 AB41 |  |
+| 3 |  | 18 | ??? |  | ??? |  | 1 SNIPER |  |  |
+| 4 | 1 AB41 | 17 | ??? |  | ??? |  | 1 SNIPER, 1 TANK |  |
+| 5 | 2 SNIPERS | 20 | ??? |  | ??? |  | 3 SNIPERS (1 end of wave) |  |
+| 6 | 1 AB41 | 19 | ??? |  | ??? |  | 1 SNIPER, 1 TANK |  |
+| 7 | 1 KFZ222 | 26 | ??? |  | ??? |  | 1 SNIPER, 1 KFZ222 |  |
+| 8 |  | 19 | ??? |  | ??? |  | 4 SNIPERS |  |
+| 9 | 2 SNIPERS, 1 TANK | 15 | ??? |  | ??? |  | 3 SNIPERS, 2 TANKS |  |
+| 10 |  | 20 | ??? |  | 1 SNIPER, 1 AB41, 1 TANK |  | 1 SNIPER, 1 AB41, 1 TANK |  |
+| 11 |  | 29 |  |  |  |  |  |  |
+| 12 | 2 TANKS | 31 | 2 TANKS |  | 2 TANKS |  | 2 TANKS |  |
 
 Sniper locations:  
 
