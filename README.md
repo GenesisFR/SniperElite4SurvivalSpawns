@@ -45,17 +45,17 @@ Sniper locations:
 | Wave | Solo | 2 players | 3 players | 4 players | Notes |
 | :--: | ---- | --------- | --------- | --------- | ----- |
 | 1 | 1 TRUCK | 1 TRUCK | 1 TRUCK | 1 TRUCK |
-| 2 | 1 AB41 | ??? | 1 SNIPER | 2 SNIPERS |
-| 3 | 1 KFZ251 | ??? | ??? | 2 SNIPERS (otherwise 1), 1 KFZ222 |
+| 2 | 1 AB41 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 | 2 SNIPERS, 1 AB41 |
+| 3 | 1 KFZ251 | 1 SNIPER, 1 KFZ251 | 1 SNIPER, 1 KFZ251 | 2 SNIPERS, 2 KFZ251 |
 | 4 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 | 1 SNIPER, 1 AB41 |
-| 5 | 1 SNIPER, 1 KFZ222, 1 TRUCK | ??? | ??? | 2 SNIPERS, 1 KFZ222 |
-| 6 | 1 KFZ251 | ??? | ??? | 1 KFZ222, 1 TANK |
-| 7 | 1 SNIPER, 1 AB41 | ??? | ??? | 2 SNIPERS, 1 AB41 |
-| 8 | 1 KFZ222, 1 AB41 | ??? | ??? | 1 SNIPER, 2 AB41, 2 KFZ222 |
-| 9 | 2 SNIPERS, 1 KFZ222, 1 TANK | ??? | ??? | 2 SNIPERS, 2 KFZ222, 1 TANK |
-| 10 | 2 AB41 | ??? | ??? | 2 SNIPERS, 2 KFZ222, 1 AB41 |
-| 11 | 1 SNIPER, 1 KFZ222 | ??? | ??? | 1 SNIPER, 2 KFZ222 |
-| 12 | 2 TANKS | ??? | ??? | 3 TANKS |
+| 5 | 1 SNIPER, 1 KFZ222, 1 TRUCK | 1 SNIPER, 1 KFZ222, 1 TRUCK | 1 SNIPER, 1 KFZ222, 1 TRUCK | 2 SNIPERS, 1 KFZ222, 1 TRUCK |
+| 6 | 1 KFZ251 |  1 KFZ251, 1 TANK |  1 KFZ251, 1 TANK | 1 KFZ251, 1 TANK |
+| 7 | 1 SNIPER, 1 AB41 | 2 SNIPERS, 1 AB41 |  3 SNIPERS, 1 AB41 | 3 SNIPERS, 1 AB41 |
+| 8 | 1 KFZ222, 1 AB41 | 2 KFZ222 | 1 SNIPER, 1 AB41, 2 KFZ222 | 1 SNIPER, 2 AB41, 2 KFZ222 |
+| 9 | 2 SNIPERS, 1 KFZ251, 1 TANK | 2 SNIPERS, 1 KFZ251, 1 TANK | 2 SNIPERS, 1 KFZ251, 1 TANK | 2 SNIPERS, 2 KFZ251, 1 TANK |
+| 10 | 2 AB41 | ??? | 2 SNIPERS, 1 KFZ222, 1 AB41 | 2 SNIPERS, 1 KFZ222, 2 AB41 |
+| 11 | 1 SNIPER, 1 KFZ251 | 1 SNIPER, 2 KFZ251 | 1 SNIPER, 2 KFZ251 | 1 SNIPER, 2 KFZ251 |
+| 12 | 2 TANKS | 2 TANKS | 2 TANKS | 3 TANKS |
 
 Sniper locations:  
 
@@ -134,7 +134,7 @@ Sniper locations:
 | 7 | 1 KFZ222 | ??? | ??? | 1 SNIPER, 1 KFZ222 |
 | 8 |  | ??? | ??? | 4 SNIPERS |
 | 9 | 2 SNIPERS, 1 TANK | ??? | ??? | 3 SNIPERS, 2 TANKS |
-| 10 |  | ??? | ??? | 1 SNIPER, 1 TANK |
+| 10 |  | ??? | 1 SNIPER, 1 AB41, 1 TANK | 1 SNIPER, 1 AB41, 1 TANK |
 | 11 |
 | 12 | 2 TANKS | 2 TANKS | 2 TANKS | 2 TANKS |
 
