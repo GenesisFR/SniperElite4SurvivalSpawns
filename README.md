@@ -34,15 +34,15 @@ A document listing all sniper/vehicle spawns in the survival mode of Sniper Elit
 |               | 1  | 
 |               | 2  | 1 SNIPER | 1 SNIPER | 1 SNIPER | 2 SNIPERS |
 |               | 3  |  |  |  | 1 SNIPER |
-|               | 4  | 1 SNIPER | 1 SNIPER | 1 SNIPER | 2 SNIPERS |
+|               | 4  | 1 SNIPER | 1 SNIPER | 1 SNIPER (sometimes 2) | 2 SNIPERS |
 |               | 5  |
-|               | 6  | 1 SNIPER | ??? | ??? | 2 SNIPERS (second late?) |
-|               | 7  | 1 SNIPER (spawns at 15) | ??? | ??? | 2 SNIPERS |
-|               | 8  | 2 SNIPERS | ??? | ??? | 2 SNIPERS |
-|               | 9  | 1 SNIPER | ??? | ??? | 3 SNIPERS |
+|               | 6  | 1 SNIPER | 1 SNIPER | 1 SNIPER | 2 SNIPERS (second late?) |
+|               | 7  | 1 SNIPER (spawns at 15) | 1 SNIPER | 1 SNIPER | 2 SNIPERS |
+|               | 8  | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS |
+|               | 9  | 1 SNIPER | 2 SNIPERS | 2 SNIPERS | 3 SNIPERS |
 |               | 10 | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS |
-|               | 11 | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS | 2 SNIPERS |
-|               | 12 | 2 SNIPERS (maybe 3?) | ??? | ??? | 3 SNIPERS (maybe 4?) |
+|               | 11 |  |  | 1 SNIPER | 2 SNIPERS |
+|               | 12 | 2 SNIPERS (maybe 3?) | 2 SNIPERS | 2 SNIPERS | 3 SNIPERS (maybe 4?) |
 | Village       |    |  |  |  |  | Snipers locations:<br />- at the top of the slope at CP3<br />- in the ruins behind CP2<br />- in the ruins at CP4<br />- on the right side of the house at CP2<br />- on the balcony above CP1<br />- on the roof above CP1<br />- at the top of the church (rare)
 |               | 1  |
 |               | 2  |  |  |  | 1 SNIPER |
@@ -70,9 +70,13 @@ A document listing all sniper/vehicle spawns in the survival mode of Sniper Elit
 |               | 11 |
 |               | 12 | 2 TANKS | 2 TANKS | 2 TANKS | 2 TANKS |
 
-References
+**References**
 
 https://sniperelite.fandom.com/wiki/Sniper_Elite_4_Survival_Mode
+
+**Credits**
+
+- u/TJDx2 (https://www.reddit.com/user/TJDx2/): helped with some spawn information
 
 **TO-DO**
 
