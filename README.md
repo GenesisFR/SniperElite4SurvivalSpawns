@@ -33,14 +33,15 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 
 Sniper locations:  
 
-- outside the tunnel  
-- above the train track, at one of the windows on the left  
-- above the train track, at the top of the stairs  
-- on the roof near CP3  
-- on the upper level of the armory, at one of the windows  
-- on the first floor of CP2, at one of the windows  
-- on the second floor of CP2, at the round window  
-- on the roof between CP1 and CP2 (rare)
+1. [above the train track, at one of the windows on the left](images/dockyard/train_track_window.png)
+2. [above the train track, at the top of the stairs](images/dockyard/train_track_stairs.png)
+3. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare)
+4. [on the first floor of CP2, at one of the windows](images/dockyard/CP2_windows.png)
+5. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare)
+6. [on the roof near CP3](images/dockyard/CP3_roof.png)
+7. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png)
+8. [on the upper level of the armory, at one of the windows](images/dockyard/CP2_armory.png)
+9. [outside the tunnel near CP1](images/dockyard/outside_tunnel.png)
 
 ## Facility
 
@@ -127,18 +128,18 @@ Sniper locations:
 
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
-| 1 |  | 12 |  |  |  |  |  |  |  |
-| 2 | 1 AB41 | 15 | ??? |  | ??? |  | 1 sniper (end of wave), 1 AB41 |  |
-| 3 |  | 18 | ??? |  | ??? |  | 1 sniper |  |  |
-| 4 | 1 AB41 | 17 | ??? |  | ??? |  | 1 sniper, 1 tank |  |
-| 5 | 2 snipers | 20 | ??? |  | ??? |  | 3 snipers (1 end of wave) |  |
-| 6 | 1 AB41 | 19 | ??? |  | ??? |  | 1 sniper, 1 tank |  |
-| 7 | 1 KFZ222 | 26 | ??? |  | ??? |  | 1 sniper, 1 KFZ222 |  |
-| 8 |  | 19 | ??? |  | ??? |  | 4 snipers |  |
-| 9 | 2 snipers, 1 tank | 15 | ??? |  | ??? |  | 3 snipers, 2 tanks |  |
-| 10 |  | 20 | ??? |  | 1 sniper, 1 AB41, 1 tank |  | 1 sniper, 1 AB41, 1 tank |  |
-| 11 |  | 29 |  |  |  |  |  |  |
-| 12 | 2 tanks | 31 | 2 tanks |  | 2 tanks |  | 2 tanks |  |
+| 1 |  | 12 |  |  |  |  |  | 20 |  |
+| 2 | 1 AB41 | 15 | ??? |  | ??? |  | 1 sniper (end of wave), 1 AB41 | 23 |
+| 3 |  | 18 | ??? |  | ??? |  | 1 sniper | 24 |  |
+| 4 | 1 AB41 | 17 | ??? |  | ??? |  | 1 sniper, 1 tank | 23 |
+| 5 | 2 snipers | 20 | ??? |  | ??? |  | 3 snipers (1 end of wave) | 26 |
+| 6 | 1 AB41 | 19 | ??? |  | ??? |  | 1 sniper, 1 tank | 27 |
+| 7 | 1 KFZ222 | 26 | ??? |  | ??? |  | 1 sniper, 1 KFZ222 | 31 |
+| 8 |  | 19 | ??? |  | ??? |  | 4 snipers | 31 |
+| 9 | 2 snipers, 1 tank | 15 | ??? |  | ??? |  | 3 snipers, 2 tanks | 30 |
+| 10 |  | 20 | ??? |  | 1 sniper, 1 AB41, 1 tank |  | 1 sniper, 1 AB41, 1 tank | 34 |
+| 11 |  | 29 |  |  |  |  |  | 36 |
+| 12 | 2 tanks | 31 | 2 tanks |  | 2 tanks |  | 2 tanks | 46 |
 
 Sniper locations:  
 
