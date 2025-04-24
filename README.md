@@ -143,10 +143,10 @@ Sniper locations:
 
 Sniper locations:  
 
-- at the top of the hill behind CP4  
-- on the first floor the house at CP2  
-- on the roof with the stairs at CP1  
-- on the ground near CP3
+1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png)
+2. [on the first floor the house at CP2](images/winter_market/CP2_house.png)
+3. [on the ground near CP3](images/winter_market/CP3_corner.png)
+4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png)
 
 ## References
 
