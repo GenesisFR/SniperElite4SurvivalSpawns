@@ -62,13 +62,13 @@ Sniper locations:
 
 Sniper locations:  
 
-- on the first floor of the fishhouse  
-- in the tower of the castle  
-- on the first floor of the castle  
-- near the 88 gun near the castle  
-- on the ground next to CP2  
-- in the barracks between CP4 and the castle  
-- on the hill, near the top of the stairs
+1. [in the barracks between CP4 and the castle](images/facility/CP4_sea_barracks.png) (rare)
+2. [in the tower of the castle](images/facility/CP3_castle_tower.png)
+3. [on the balcony near the 88 gun near CP3](images/facility/CP3_88_balcony.png)
+4. [on the first floor of the castle](images/facility/CP3_castle_balcony.png)
+5. [on the first floor of the fishhouse](images/facility/CP4_fish_house.png)
+6. [on the ground next to CP2](images/facility/CP2.png)
+7. [on the hill above CP1](images/facility/CP1_hill_bottom.png)
 
 ## Urban
 
