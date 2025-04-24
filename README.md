@@ -89,13 +89,13 @@ Sniper locations:
 
 Sniper locations:  
 
-- at the round tower  
-- at the bell tower  
-- at the cannon tower  
-- on the balcony above CP2  
-- on the balcony of beer garden  
-- on the roof of propaganda  
-- on the roof between propaganda and cannon tower (rare)
+1. [at the bell tower near CP2](images/urban/CP2_bell_tower_outside.png) ([inside](images/urban/CP2_bell_tower_inside.png))
+2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png)
+3. [at the round tower near CP4](images/urban/CP4_round_tower_outside.png) ([inside](images/urban/CP4_round_tower_inside.png))
+4. [on the balcony above CP2](images/urban/CP2_balcony.png)
+5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png)
+6. [on the roof between propaganda and cannon tower](images/urban/CP1_other_roof.png) (rare)
+7. [on the roof of propaganda](images/urban/CP1_propaganda.png)
 
 ## Village
 
