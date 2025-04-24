@@ -116,13 +116,13 @@ Sniper locations:
 
 Sniper locations:  
 
-- at the top of the slope at CP3  
-- in the ruins behind CP2  
-- in the ruins at CP4  
-- on the right side of the house at CP2  
-- on the balcony above CP1  
-- on the roof above CP1  
-- at the top of the church (rare)
+1. [around the house at CP2](images/village/CP2_house.png)
+2. [at the top of the church](images/village/church.png) (rare)
+3. [at the top of the hill near CP3](images/village/CP3_hill.png)
+4. [in the ruins at CP4](images/village/CP4_ruins.png)
+5. [in the ruins behind CP2](images/village/CP2_ruins.png)
+6. [on the balcony above CP1](images/village/CP1_balcony.png)
+7. [on the roof above CP1](images/village/CP1_roof.png)
 
 ## Winter Market
 
