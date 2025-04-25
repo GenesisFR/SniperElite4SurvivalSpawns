@@ -26,7 +26,7 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 | 6 | 1 tank | 19 | ??? |  | ??? |  | 1 sniper, 1 tank |  | the tank comes from the tunnel
 | 7 |  | 20 |  |  |  |  | 1 sniper (spawns at 15) |  |
 | 8 |  | 20 | ??? |  | ??? |  | 2 snipers |  |
-| 9 | 2 snipers, 1 tank | 15 | ??? |  | ??? |  | 3 snipers, 1 AB41, 1 tank | the tank comes from the tunnel
+| 9 | 2 snipers, 1 tank | 15 | ??? |  | ??? |  | 3 snipers, 1 AB41, 1 tank |  | the tank comes from the tunnel
 | 10 |  | 22 | ??? |  | ??? |  | 2 snipers |  |
 | 11 | 1 sniper | 27 | ??? |  | ??? |  | 2 snipers |  |
 | 12 | 2 tanks | 29 | 2 tanks |  | 2 tanks |  | 2 tanks |  |
@@ -109,10 +109,10 @@ Sniper locations:
 | 6 |  | 18 | ??? |  | ??? |  | 2 snipers, 1 tank |  | the tank comes from the road below CP2 ruins
 | 7 |  | 25 | ??? |  | ??? |  | 1 sniper |  |
 | 8 |  | 19 | ??? |  | ??? |  | 4 snipers |  |
-| 9 | 2 snipers, 1 tank | 15 | ??? |  | ??? |  | 2 snipers, 2 tanks | tanks come from the CP4 road (4-man) and the one below CP2 ruins
+| 9 | 2 snipers, 1 tank | 15 | ??? |  | ??? |  | 2 snipers, 2 tanks |  | tanks come from the CP4 road (4-man) and the road below CP2 ruins
 | 10 |  | 20 | ??? |  | ??? |  | 1 sniper, 1 AB41 |  | the AB41 comes from the road near CP1
 | 11 |  | 29 |  |  |  |  |  |  |
-| 12 | 2 tanks | 31 | ??? |  | ??? |  | 1 sniper, 2 tanks |  | tanks come from the CP4 road and the one below CP2 ruins
+| 12 | 2 tanks | 31 | ??? |  | ??? |  | 1 sniper, 2 tanks |  | tanks come from the CP4 road and the road below CP2 ruins
 
 Sniper locations:  
 
@@ -144,7 +144,7 @@ Sniper locations:
 Sniper locations:  
 
 1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png)
-2. [on the first floor the house at CP2](images/winter_market/CP2_house.png)
+2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png)
 3. [on the ground near CP3](images/winter_market/CP3_corner.png) (never spawns before wave 4)
 4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (never spawns before wave 4)
 
