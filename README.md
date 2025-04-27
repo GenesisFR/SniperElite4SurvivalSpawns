@@ -8,7 +8,7 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 
 * [Dockyard](#dockyard)
 * [Facility](#facility)
-* [Marina](#narina)
+* [Marina](#marina)
 * [Urban](#urban)
 * [Village](#village)
 * [Winter Market](#winter-market)
