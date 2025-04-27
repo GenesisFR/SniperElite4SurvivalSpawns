@@ -2,6 +2,8 @@
 
 In this document, you'll find all sniper/vehicle spawns and enemy count per wave in every single survival map of Sniper Elite 4.
 
+You'll find red circles when looking at screenshots. Snipers periodically cycle between them after reaching their sniping spot.
+
 Please note that "solo" was done through a multiplayer lobby, not by selecting "Single Player -> Solo Survival" (which has different spawns that won't be covered here).
 
 ## Table of Contents
