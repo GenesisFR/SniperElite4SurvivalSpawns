@@ -58,18 +58,19 @@ Sniper locations:
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 |  |
 | 9 | 2 snipers, 1 half-track, 1 tank | 22 | 2 snipers, 1 half-track, 1 TANK? | 30 | 2 snipers, 1 half-track, 1 tank | 40 | 2 snipers, 2 half-tracks, 1 tank |  |
 | 10 | 2 AB41 | 26 | ??? |  | 2 snipers, 1 KFZ222, 1 AB41 | 40 | 2 snipers, 2 AB41, 1 KFZ222 | 42 |
-| 11 | 1 sniper, 1 half-track | 28 | 1 sniper, 2 half-tracks |  | 2 snipers, 2 half-tracks | 47 | 1 sniper, 2 half-tracks | 47 |
+| 11 | 1 sniper, 1 half-track | 28 | 1 sniper, 2 half-tracks |  | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 47 |
 | 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks |  | 3 tanks | 47 | the 3rd tank comes from the castle
 
 Sniper locations:  
 
 1. [in the barracks between CP4 and the castle](images/facility/CP4_sea_barracks.png) (rare)
 2. [in the tower of the castle](images/facility/CP3_castle_tower.png)
-3. [on the balcony near the 88 gun near CP3](images/facility/CP3_88_balcony.png)
-4. [on the first floor of the castle](images/facility/CP3_castle_balcony.png)
-5. [on the first floor of the fish house](images/facility/CP4_fish_house.png)
-6. [on the ground next to CP2](images/facility/CP2.png)
-7. [on the hill above CP1](images/facility/CP1_hill_bottom.png)
+3. [on the balcony above CP1](images/facility/CP1_balcony.png) (never spawns before wave 4)
+4. [on the balcony near the 88 gun near CP3](images/facility/CP3_88_balcony.png)
+5. [on the first floor of the castle](images/facility/CP3_castle_balcony.png)
+6. [on the first floor of the fish house](images/facility/CP4_fish_house.png)
+7. [on the ground next to CP2](images/facility/CP2.png)
+8. [on the hill above CP1](images/facility/CP1_hill_bottom.png)
 
 ## Marina
 
