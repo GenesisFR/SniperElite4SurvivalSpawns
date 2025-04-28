@@ -26,10 +26,10 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 | 3 |  | 15 |  | 21 |  |  |  | 26 |
 | 4 | 1 AB41 | 15 | 1 AB41 | 21 | 1 AB41 |  | 1 AB41 | 27 | the AB41 comes from the train tracks
 | 5 | 1 sniper | 19 | ??? | 25 | ??? |  | 3 snipers | 31 |
-| 6 | 1 tank | 19 | ??? | 25 | ??? |  | 1 sniper, 1 tank | 31 | the tank comes from the tunnel
+| 6 | 1 tank | 19 | ???, 1 tank | 25 | ???, 1 tank |  | 1 sniper, 1 tank | 31 | the tank comes from the tunnel
 | 7 |  | 20 | ??? | 27 | ??? |  | 1 sniper (spawns at 15) | 33 |
 | 8 |  | 20 | ??? | 27 | ??? |  | 2 snipers | 33 |
-| 9 | 2 snipers, 1 tank | 15 | ??? | 22 | ??? |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
+| 9 | 2 snipers, 1 tank | 15 | ???, 1 tank | 22 | ???, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
 | 10 |  | 22 | ??? | 29 | ??? |  | 2 snipers | 36 |
 | 11 | 1 sniper | 27 | ??? | 34 | ??? |  | 2 snipers | 41 |
 | 12 | 2 tanks | 29 | 2 tanks | 36 | 2 tanks |  | 2 tanks | 44 |
@@ -58,7 +58,7 @@ Sniper locations:
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
-| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 2 snipers, 1 half-track, 1 TANK? | 30 | 2 snipers, 1 half-track, 1 tank | 40 | 2 snipers, 2 half-tracks, 1 tank | 42 |
+| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 2 snipers, 1 half-track, 1 tank | 30 | 2 snipers, 1 half-track, 1 tank | 40 | 2 snipers, 2 half-tracks, 1 tank | 42 |
 | 10 | 2 AB41 | 26 | ??? |  | 2 snipers, 1 KFZ222, 1 AB41 | 40 | 2 snipers, 2 AB41, 1 KFZ222 | 42 |
 | 11 | 1 sniper, 1 half-track | 28 | 1 sniper, 2 half-tracks |  | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 47 |
 | 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks |  | 3 tanks | 47 | the third tank comes from the castle road
@@ -133,7 +133,7 @@ Sniper locations:
 | 9 | 2 snipers, 1 tank | 15 | ??? | 19 | ??? |  | 2 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
 | 10 |  | 20 | ??? | 22 | ??? |  | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
 | 11 |  | 29 |  | 31 |  |  |  | 36 |
-| 12 | 2 tanks | 31 | ??? | 34 | ??? |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road and the road below CP2 ruins
+| 12 | 2 tanks | 31 | ???, 2 tanks | 34 | ???, 2 tanks |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road and the road below CP2 ruins
 
 Sniper locations:  
 
@@ -180,4 +180,4 @@ https://sniperelite.fandom.com/wiki/Sniper_Elite_4_Survival_Mode
 ## TO-DO
 
 - add missing information
-- add enemy count per wave
+- add more notes
