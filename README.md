@@ -72,7 +72,7 @@ Sniper locations:
 5. [on the first floor of the castle](images/facility/CP3_castle_balcony.png)
 6. [on the first floor of the fish house](images/facility/CP4_fish_house.png)
 7. [on the ground next to CP2](images/facility/CP2.png)
-8. [on the hill above CP1](images/facility/CP1_hill_bottom.png)
+8. [on the hill above CP1](images/facility/CP1_hill.png)
 
 ## Marina
 
