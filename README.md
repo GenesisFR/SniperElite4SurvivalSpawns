@@ -22,16 +22,16 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 18 |  | 23 |  | 23 |
-| 2 |  | 14 | ??? | 20 | 1 sniper | 25 | 1 sniper | 25 |
+| 2 |  | 14 | 1 sniper | 20 | 1 sniper | 25 | 1 sniper | 25 | the sniper spawns on count of 8
 | 3 |  | 15 |  | 21 |  |  |  | 26 |
 | 4 | 1 AB41 | 15 | 1 AB41 | 21 | 1 AB41 |  | 1 AB41 | 27 | the AB41 comes from the train tracks
-| 5 | 1 sniper | 19 | ??? | 25 | ??? |  | 3 snipers | 31 |
+| 5 | 1 sniper | 19 | 2 snipers | 25 | ??? |  | 3 snipers | 31 |
 | 6 | 1 tank | 19 | ???, 1 tank | 25 | ???, 1 tank |  | 1 sniper, 1 tank | 31 | the tank comes from the tunnel
-| 7 |  | 20 | ??? | 27 | ??? |  | 1 sniper (spawns at 15) | 33 |
+| 7 |  | 20 | ??? | 27 | ??? |  | 1 sniper | 33 | the sniper spawns on count of 15
 | 8 |  | 20 | ??? | 27 | ??? |  | 2 snipers | 33 |
-| 9 | 2 snipers, 1 tank | 15 | ???, 1 tank | 22 | ???, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
+| 9 | 2 snipers, 1 tank | 15 | 2 snipers, 1 tank | 22 | ???, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
 | 10 |  | 22 | ??? | 29 | ??? |  | 2 snipers | 36 |
-| 11 | 1 sniper | 27 | ??? | 34 | ??? |  | 2 snipers | 41 |
+| 11 | 1 sniper | 27 | 1 sniper | 34 | ??? |  | 2 snipers | 41 |
 | 12 | 2 tanks | 29 | 2 tanks | 36 | 2 tanks |  | 2 tanks | 44 |
 
 Sniper locations:  
@@ -150,7 +150,7 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 16 |  |  |  | 20 |  |
-| 2 | 1 AB41 | 15 | ???, 1 AB41 | 20 | ???, 1 AB41 |  | 1 sniper (end of wave), 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 and the sniper usually spawns on the hill
+| 2 | 1 AB41 | 15 | ???, 1 AB41 | 20 | ???, 1 AB41 |  | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 and the sniper usually spawns at the end of the wave on the hill
 | 3 |  | 18 | ??? | 23 | ??? |  | 1 sniper | 24 |  |
 | 4 | 1 AB41 | 17 | ??? | 20 | ??? |  | 1 sniper, 1 tank | 23 | the tank comes from the left side of CP1
 | 5 | 2 snipers | 20 | ??? | 23 | ??? |  | 3 snipers (1 end of wave) | 26 |
@@ -175,7 +175,7 @@ https://sniperelite.fandom.com/wiki/Sniper_Elite_4_Survival_Mode
 
 ## Credits
 
-- u/TJDx2 (https://www.reddit.com/user/TJDx2/): helped with some spawn information
+- [u/TJDx2](https://www.reddit.com/user/TJDx2/): helped with some spawns
 
 ## TO-DO
 
