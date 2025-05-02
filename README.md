@@ -53,17 +53,17 @@ Sniper locations:
 
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
-| 1 | 1 truck | 16 | 1 truck | 24 | 1 truck |  | 1 truck | 30 |
-| 2 | 1 AB41 | 16 | 1 sniper, 1 AB41 |  | 2 sniper, 1 AB41 | 30 | 2 snipers, 1 AB41 | 32 |
-| 3 | 1 half-track | 20 | 1 sniper, 1 half-track | 27 | 2 sniper, 1 half-track |  | 2 snipers, 2 half-tracks | 34 |
+| 1 | 1 truck | 16 | 1 truck | 24 | 1 truck | 30 | 1 truck | 30 |
+| 2 | 1 AB41 | 16 | 1 sniper, 1 AB41 |  | 2 snipers, 1 AB41 | 30 | 2 snipers, 1 AB41 | 32 |
+| 3 | 1 half-track | 20 | 1 sniper, 1 half-track | 27 | 2 snipers, 1 half-track |  | 2 snipers, 2 half-tracks | 34 |
 | 4 | 1 sniper, 1 AB41 | 20 | 1 sniper, 1 AB41 | 26 | 1 sniper, 1 AB41 | 34 | 1 sniper, 1 AB41 | 34 |
 | 5 | 1 sniper, 1 KFZ222, 1 truck | 22 | 2 snipers, 1 KFZ222, 1 truck | 31 | 3 snipers, 1 KFZ222, 1 truck | 38 | 3 snipers, 1 KFZ222, 1 truck | 40 |
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
 | 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 |
-| 10 | 2 AB41 | 26 | 1 snipers |  | 1 snipers, 1 KFZ222, 1 AB41 | 40 | 1 snipers, 2 AB41, 1 KFZ222 | 42 |
-| 11 | 1 sniper, 1 half-track | 28 | 2 sniper, 2 half-tracks |  | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 47 |
+| 10 | 2 AB41 | 26 | 1 sniper |  | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 |
+| 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 |
 | 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks |  | 3 tanks | 47 | the third tank comes from the castle road
 
 Sniper locations:  
@@ -101,14 +101,14 @@ Sniper locations:
 | 1 |  | 15 |  | 19 |  |  |  | 27 |  |
 | 2 | 1 sniper | 15 | 1 sniper | 20 | 1 sniper |  | 2 snipers | 26 |
 | 3 |  | 19 |  | 23 |  |  | 1 sniper | 28 |
-| 4 | 1 sniper | 20 | 1 sniper | 25 | 2 sniper |  | 2 snipers | 33 |
+| 4 | 1 sniper | 20 | 1 sniper | 25 | 2 snipers |  | 2 snipers | 33 |
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
-| 6 | 1 sniper | 22 | 2 sniper | 26 | 2 sniper | 32 | 2 snipers (second late?) | 33 |
-| 7 | 1 sniper (spawns at 15) | 25 | 1 sniper | 29 | 1 sniper |  | 1 snipers | 36 |
+| 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers (second late?) | 33 |
+| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper |  | 1 sniper | 36 | sniper spawns on count of 15
 | 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers |  | 2 snipers | 34 |
-| 9 | 1 sniper (spawns at 16) | 25 | 3 snipers | 31 | 2 snipers |  | 3 snipers | 39 |
+| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers |  | 3 snipers | 39 | sniper spawns on count of 16
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers |  | 3 snipers | 40 |
-| 11 | 2 sniper | 29 | 2 snipers | 37 | 2 snipers |  | 2 snipers | 44 |
+| 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers |  | 2 snipers | 44 |
 | 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers |  | 4 snipers | 44 |
 
 Sniper locations:  
@@ -126,17 +126,16 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 11 |  | 14 |  |  |  | 20 |
-| 2 |  | 14 |  | 19 | 1 sniper |  | 1 sniper | 21 |
-| 3 |  | 17 |  | 22 |  |  |  | 22 |
-| 4 |  | 15 | ??? | 19 | ??? |  | 1 sniper, 1 AB41 | 22 |
-| 5 | 2 snipers | 20 | 2 snipers | 23 | 3 snipers |  | 3 snipers | 26 |
-| 6 |  | 18 |  | 21 | 1 sniper |  | 1 sniper, 1 tank | 26 | the tank comes from the road below CP2 ruins
-| 7 |  | 25 |  | 29 | 1 sniper |  | 1 sniper | 30 |
-| 8 |  | 19 |  | 23 | 4 snipers |  | 4 snipers | 31 |
-| 9 | 2 snipers, 1 tank | 15 | 2 snipers | 19 | 3 snipers |  | 3 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
-| 10 |  | 20 |  | 22 | 1 sniper |  | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
+| 2 |  | 14 |  | 19 | 1 sniper | 21 | 1 sniper | 21 |
+| 3 |  | 17 |  | 22 |  | 22 |  | 22 |
+| 4 |  | 15 |  | 19 | ??? |  | 1 sniper, 1 AB41 | 22 |
+| 5 | 2 snipers | 20 | 2 snipers | 23 | 3 snipers | 26 | 3 snipers | 26 |
+| 6 |  | 18 |  | 21 | 1 sniper | 26 | 1 sniper, 1 tank | 26 | the tank comes from the road below CP2 ruins
+| 7 |  | 25 |  | 29 | 1 sniper | 30 | 1 sniper | 30 |
+| 8 |  | 19 |  | 23 | 4 snipers | 31 | 4 snipers | 31 |
+| 9 | 2 snipers, 1 tank | 15 | 2 snipers, 1 tank | 19 | 3 snipers, 1 tank | 30 | 3 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
 | 11 |  | 29 |  | 31 |  |  |  | 36 |
-| 12 | 2 tanks | 31 | ???, 2 tanks | 34 | 2 snipers 2 tanks |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road and the road below CP2 ruins
+| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road (spawns on count of 20) and the road below CP2 ruins
 
 Sniper locations:  
 
@@ -153,17 +152,17 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 16 |  |  |  | 20 |  |
-| 2 | 1 AB41 | 15 | 1 AB41 | 20 | 1 sniper, 1 AB41 |  | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 and the sniper usually spawns at the end of the wave on the hill
+| 2 | 1 AB41 | 15 | 1 AB41 | 20 | 1 sniper, 1 AB41 |  | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns on count of 15 at the end of the wave on the hill
 | 3 |  | 18 |  | 23 |  |  |  | 24 |  |
-| 4 | 1 AB41 | 17 |  | 20 |  |  | 1 tank | 23 | the tank comes from the left side of CP1
+| 4 | 1 AB41 | 17 | ??? | 20 | ??? |  | 1 tank | 23 | the tank comes from the left side of CP1
 | 5 | 2 snipers | 20 | 2 snipers | 23 | 3 snipers |  | 3 snipers (1 end of wave) | 26 |
-| 6 | 1 AB41 | 19 |  | 22 | 1 sniper |  | 1 sniper, 1 tank | 27 |
-| 7 | 1 KFZ222 | 26 |  | 30 | 1 sniper |  | 1 sniper, 1 KFZ222 | 31 |
+| 6 | 1 AB41 | 19 | ??? | 22 | 1 sniper, ??? |  | 1 sniper, 1 tank | 27 |
+| 7 | 1 KFZ222 | 26 | 1 KFZ222 | 30 | 1 sniper, 1 KFZ222 |  | 1 sniper, 1 KFZ222 | 31 |
 | 8 |  | 19 |  | 23 | 4 snipers |  | 4 snipers | 31 |
-| 9 | 2 snipers, 1 tank | 15 | 2 snipers | 19 | 3 snipers |  | 3 snipers, 2 tanks | 30 |
-| 10 |  | 20 |  | 22 | 1 sniper, 1 AB41, 1 tank |  | 1 sniper, 1 AB41, 1 tank | 34 |
+| 9 | 2 snipers, 1 tank | 15 | 2 snipers, 1 tank | 19 | 3 snipers, ??? |  | 3 snipers, 2 tanks | 30 |
+| 10 |  | 20 | ??? | 22 | 1 sniper, 1 AB41, 1 tank |  | 1 sniper, 1 AB41, 1 tank | 34 |
 | 11 |  | 29 |  | 31 |  |  |  | 36 |
-| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks |  | 2 snipers, 2 tanks | 46 |
+| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks |  | 2 snipers, 2 tanks | 46 | the tank on the left side of CP1 spawns on count of 25
 
 Sniper locations:  
 
