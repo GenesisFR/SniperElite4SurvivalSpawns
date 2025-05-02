@@ -150,7 +150,7 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 16 |  |  |  | 20 |  |
-| 2 | 1 AB41 | 15 | ???, 1 AB41 | 20 | ???, 1 AB41 |  | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns at the end of the wave on the hill
+| 2 | 1 AB41 | 15 | ???, 1 AB41 | 20 | ???, 1 AB41 |  | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns on count of 15 at the end of the wave on the hill
 | 3 |  | 18 |  | 23 |  |  |  | 24 |  |
 | 4 | 1 AB41 | 17 | ??? | 20 | ??? |  | 1 sniper, 1 tank | 23 | the tank comes from the left side of CP1
 | 5 | 2 snipers | 20 | ??? | 23 | ??? |  | 3 snipers (1 end of wave) | 26 |
@@ -160,7 +160,7 @@ Sniper locations:
 | 9 | 2 snipers, 1 tank | 15 | ??? | 19 | ??? |  | 3 snipers, 2 tanks | 30 |
 | 10 |  | 20 | ??? | 22 | 1 sniper, 1 AB41, 1 tank |  | 1 sniper, 1 AB41, 1 tank | 34 |
 | 11 |  | 29 |  | 31 |  |  |  | 36 |
-| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 tanks |  | 2 tanks | 46 |
+| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 tanks |  | 2 tanks | 46 | the tank on the left side of CP1 spawns on count of 25
 
 Sniper locations:  
 
