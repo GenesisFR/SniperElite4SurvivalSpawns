@@ -6,9 +6,6 @@ You'll find red circles when looking at screenshots. Snipers periodically cycle 
 
 Please note that "solo" was done through a multiplayer lobby, not by selecting "Single Player -> Solo Survival" (which has different spawns that won't be covered here).
 
-<img width="826" alt="Sniper" src="https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b" />
-
-
 ## Table of Contents
 
 * [Dockyard](#dockyard)
@@ -173,11 +170,13 @@ Sniper locations:
 
 ## References
 
-https://sniperelite.fandom.com/wiki/Sniper_Elite_4_Survival_Mode
+https://sniperelite.fandom.com/wiki/Sniper_Elite_4_Survival_Mode  
+https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b
 
 ## Credits
 
-- [u/TJDx2](https://www.reddit.com/user/TJDx2/): helped with some spawns
+- [changc009](https://github.com/changc009): helped with some sniper spawns
+- [TJDx2](https://www.reddit.com/user/TJDx2): helped with some spawns
 
 ## TO-DO
 
