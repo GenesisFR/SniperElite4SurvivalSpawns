@@ -6,7 +6,8 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 
 You'll find red circles when looking at screenshots. Snipers periodically move between them after reaching their sniping spot.
 
-**Valkyrie snipers can one shot you on Authentic Plus!**.
+> [!CAUTION]
+**Valkyrie snipers can one shot you on Authentic Plus!**
 
 ## Table of Contents
 
