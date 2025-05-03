@@ -25,13 +25,13 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 | 2 |  | 14 | 1 sniper | 20 | 1 sniper | 25 | 1 sniper | 25 | the sniper spawns on count of 8
 | 3 |  | 15 |  | 21 |  |  |  | 26 |
 | 4 | 1 AB41 | 15 | 1 AB41 | 21 | 1 AB41 |  | 1 AB41 | 27 | the AB41 comes from the train tracks
-| 5 | 1 sniper | 19 | 2 snipers | 25 | 3 snipers |  | 3 snipers | 31 |
-| 6 | 1 tank | 19 | ???, 1 tank | 25 | ???, 1 tank |  | 1 sniper, 1 tank | 31 | the tank comes from the tunnel
-| 7 |  | 20 | ??? | 27 | ??? |  | 1 sniper | 33 | the sniper spawns on count of 15
-| 8 |  | 20 | ??? | 27 | ??? |  | 2 snipers | 33 |
-| 9 | 2 snipers, 1 tank | 15 | 2 snipers, 1 tank | 22 | ???, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
-| 10 |  | 22 | ??? | 29 | ??? |  | 2 snipers | 36 |
-| 11 | 1 sniper | 27 | 1 sniper | 34 | ??? |  | 2 snipers | 41 |
+| 5 | 1 sniper | 19 | 3 snipers | 25 | 3 snipers |  | 3 snipers | 31 |
+| 6 | 1 tank | 19 | 1 tank | 25 | 1 tank |  | 1 tank | 31 | the tank comes from the tunnel
+| 7 |  | 20 |  | 27 |  |  |  | 33 |
+| 8 |  | 20 |  | 27 |  |  |  | 33 |
+| 9 | 2 snipers, 1 tank | 15 | 3 snipers, 1 tank | 22 | 3 snipers, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
+| 10 |  | 22 |  | 29 |  |  |  | 36 |
+| 11 | 1 sniper | 27 | 2 snipers | 34 | 2 snipers |  | 2 snipers | 41 |
 | 12 | 2 tanks | 29 | 2 tanks | 36 | 2 tanks |  | 2 tanks | 44 |
 
 Sniper locations:  
