@@ -2,9 +2,11 @@
 
 In this document, you'll find all sniper/vehicle spawns and enemy count per wave in every single survival map of Sniper Elite 4.
 
-You'll find red circles when looking at screenshots. Snipers periodically cycle between them after reaching their sniping spot.
-
 Please note that "solo" was done through a multiplayer lobby, not by selecting "Single Player -> Solo Survival" (which has different spawns that won't be covered here).
+
+You'll find red circles when looking at screenshots. Snipers periodically move between them after reaching their sniping spot.
+
+**Valkyrie snipers can one shot you on Authentic Plus!**.
 
 ## Table of Contents
 
@@ -54,13 +56,13 @@ Sniper locations:
 | 2 | 1 AB41 | 16 | 1 sniper, 1 AB41 |  | 2 snipers, 1 AB41 | 30 | 2 snipers, 1 AB41 | 32 |
 | 3 | 1 half-track | 20 | 1 sniper, 1 half-track | 27 | 2 snipers, 1 half-track |  | 2 snipers, 2 half-tracks | 34 |
 | 4 | 1 sniper, 1 AB41 | 20 | 1 sniper, 1 AB41 | 26 | 1 sniper, 1 AB41 | 34 | 1 sniper, 1 AB41 | 34 |
-| 5 | 1 sniper, 1 KFZ222, 1 truck | 22 | 2 snipers, 1 KFZ222, 1 truck | 31 | 3 snipers, 1 KFZ222, 1 truck | 38 | 3 snipers, 1 KFZ222, 1 truck | 40 |
+| 5 | 1 sniper, 1 KFZ222, 1 truck | 22 | 2 snipers, 1 KFZ222, 1 truck | 31 | 3 snipers, 1 KFZ222, 1 truck | 38 | 3 snipers, 1 KFZ222, 1 truck | 40 | 3-man+ has one Valkyrie sniper
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
-| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 |
-| 10 | 2 AB41 | 26 | 1 sniper |  | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 |
-| 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 |
+| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper
+| 10 | 2 AB41 | 26 | 1 sniper |  | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 | Valkyrie sniper
+| 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 | 3-man+ only has Valkyrie snipers, 2-man only has one
 | 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks |  | 3 tanks | 47 | the third tank comes from the castle road
 
 Sniper locations:  
@@ -101,12 +103,12 @@ Sniper locations:
 | 4 | 1 sniper | 20 | 1 sniper | 25 | 2 snipers |  | 2 snipers | 33 |
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
 | 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers (second late?) | 33 |
-| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper |  | 1 sniper | 36 | sniper spawns on count of 15
-| 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers |  | 2 snipers | 34 |
-| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers |  | 3 snipers | 39 | sniper spawns on count of 16
-| 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers |  | 3 snipers | 40 |
-| 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers |  | 2 snipers | 44 |
-| 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers |  | 4 snipers | 44 |
+| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper |  | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 15
+| 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers |  | 2 snipers | 34 | Valkyrie snipers
+| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers |  | 3 snipers | 39 |  Valkyrie sniper, spawns on count of 16
+| 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers |  | 3 snipers | 40 | Valkyrie snipers
+| 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers |  | 2 snipers | 44 | Valkyrie snipers
+| 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers |  | 4 snipers | 44 | Valkyrie snipers
 
 Sniper locations:  
 
@@ -171,6 +173,9 @@ Sniper locations:
 ## References
 
 https://sniperelite.fandom.com/wiki/Sniper_Elite_4_Survival_Mode  
+https://sniperelite.fandom.com/wiki/Heer#Sniper_2  
+https://sniperelite.fandom.com/wiki/Royal_Italian_Army#Snipers  
+https://sniperelite.fandom.com/wiki/Valkyrie_Fallschirmj%C3%A4gers#Valkyrie_Sniper  
 https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b
 
 ## Credits
@@ -182,3 +187,4 @@ https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b
 
 - add missing information
 - add more notes
+- add sniper spawn locations
