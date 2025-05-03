@@ -39,15 +39,15 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 
 Sniper locations:  
 
-1. [above the train track, at one of the windows on the left](images/dockyard/train_track_window.png)
-2. [above the train track, at the top of the stairs](images/dockyard/train_track_stairs.png)
-3. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, never spawns before wave 3)
-4. [on the first floor of CP2, at one of the windows](images/dockyard/CP2_windows.png) (never spawns before wave 6)
+1. [above the train track, at one of the windows on the left](images/dockyard/train_track_window.png) (spawns above the train track)
+2. [above the train track, at the top of the stairs](images/dockyard/train_track_stairs.png) (spawns above the train track)
+3. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, spawns at the fort, never before wave 3)
+4. [on the first floor of CP2, at one of the windows](images/dockyard/CP2_windows.png) (spawns behind CP2, never before wave 6)
 5. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare, never spawns before wave 9)
-6. [on the roof near CP3](images/dockyard/CP3_roof.png)
-7. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (never spawns before wave 6)
-8. [on the upper level of the armory, at one of the windows](images/dockyard/CP2_armory.png) (never spawns before wave 6)
-9. [outside the tunnel near CP1](images/dockyard/outside_tunnel.png) (never spawns before wave 3)
+6. [on the roof near CP3](images/dockyard/CP3_roof.png) (spawns at the CP3 fort or in the warehouse near tunnel)
+7. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2, never before wave 6)
+8. [on the upper level of the armory, at one of the windows](images/dockyard/CP2_armory.png) (spawns behind the armory, never before wave 6)
+9. [outside the tunnel near CP1](images/dockyard/outside_tunnel.png) (spawns in the tunnel)
 
 ## Facility
 
@@ -61,21 +61,21 @@ Sniper locations:
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
-| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper
+| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper, the tank comes from the tunnel
 | 10 | 2 AB41 | 26 | 1 sniper |  | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 | Valkyrie sniper
 | 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 | 3-man+ only has Valkyrie snipers, 2-man only has one
-| 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks |  | 3 tanks | 47 | the third tank comes from the castle road
+| 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks | 45 | 3 tanks | 47 | tanks come from the tunnel near fish house, hill (late spawn) and the castle road (4-man)
 
 Sniper locations:  
 
 1. [in the barracks between CP4 and the castle](images/facility/CP4_sea_barracks.png) (rare)
-2. [in the tower of the castle](images/facility/CP3_castle_tower.png)
+2. [in the tower of the castle](images/facility/CP3_castle_tower.png) (spawns in the castle)
 3. [on the balcony above CP1](images/facility/CP1_balcony.png) (never spawns before wave 4)
-4. [on the balcony near the 88 gun near CP3](images/facility/CP3_88_balcony.png)
-5. [on the first floor of the castle](images/facility/CP3_castle_balcony.png)
-6. [on the first floor of the fish house](images/facility/CP4_fish_house.png)
-7. [on the ground next to CP2](images/facility/CP2.png)
-8. [on the hill above CP1](images/facility/CP1_hill.png)
+4. [on the balcony near the 88 gun near CP3](images/facility/CP3_88_balcony.png) (spawns seaside behind the 88 gun or at the top of the castle road)
+5. [on the first floor of the castle](images/facility/CP3_castle_balcony.png) (spawns in the castle) 
+6. [on the first floor of the fish house](images/facility/CP4_fish_house.png) (spawns behind the fish house)
+7. [on the ground next to CP2](images/facility/CP2.png) (spawns near CP2)
+8. [on the hill above CP1](images/facility/CP1_hill.png) (spawns in the tunnel or the bunker on the hill road)
 
 ## Marina
 
@@ -103,22 +103,22 @@ Sniper locations:
 | 3 |  | 19 |  | 23 |  |  | 1 sniper | 28 |
 | 4 | 1 sniper | 20 | 1 sniper | 25 | 2 snipers |  | 2 snipers | 33 |
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
-| 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers (second late?) | 33 |
+| 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers | 33 | second sniper late?
 | 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper |  | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 15
 | 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers |  | 2 snipers | 34 | Valkyrie snipers
-| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers |  | 3 snipers | 39 |  Valkyrie sniper, spawns on count of 16
+| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers |  | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers |  | 3 snipers | 40 | Valkyrie snipers
 | 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers |  | 2 snipers | 44 | Valkyrie snipers
 | 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers |  | 4 snipers | 44 | Valkyrie snipers
 
 Sniper locations:  
 
-1. [at the bell tower near CP2](images/urban/CP2_bell_tower_outside.png) ([inside](images/urban/CP2_bell_tower_inside.png))
-2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png) (never spawns before wave 6)
-3. [at the round tower near CP4](images/urban/CP4_round_tower_outside.png) ([inside](images/urban/CP4_round_tower_inside.png))
-4. [on the balcony above CP2](images/urban/CP2_balcony.png) (never spawns before wave 6)
-5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png) (never spawns before wave 6)
-6. [on the roof between propaganda and cannon tower](images/urban/CP1_other_roof.png) (rare)
+1. [at the bell tower near CP2](images/urban/CP2_bell_tower_outside.png) ([inside view](images/urban/CP2_bell_tower_inside.png), spawns inside the bell tower)
+2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png) (spawns inside the cannon tower, never before wave 6)
+3. [at the round tower near CP4](images/urban/CP4_round_tower_outside.png) ([inside view](images/urban/CP4_round_tower_inside.png), spawns at the top of the round tower)
+4. [on the balcony above CP2](images/urban/CP2_balcony.png) (spawns near the cannon tower, never before wave 6)
+5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png) (spawns at the top of the round tower or behind propaganda, never before wave 6)
+6. [on the roof between propaganda and cannon tower](images/urban/CP1_other_roof.png) (rare, spawns on the ground between propaganda and cannon tower)
 7. [on the roof of propaganda](images/urban/CP1_propaganda.png) (never spawns before wave 4)
 
 ## Village
@@ -139,13 +139,13 @@ Sniper locations:
 
 Sniper locations:  
 
-1. [around the house at CP2](images/village/CP2_house.png)
+1. [around the house at CP2](images/village/CP2_house.png) (spawns inside the CP2 house or on the beach side)
 2. [at the top of the church](images/village/church.png) (rare)
-3. [at the top of the hill near CP3](images/village/CP3_hill.png)
-4. [in the ruins at CP4](images/village/CP4_ruins.png)
-5. [in the ruins behind CP2](images/village/CP2_ruins.png)
-6. [on the balcony above CP1](images/village/CP1_balcony.png)
-7. [on the roof above CP1](images/village/CP1_roof.png)
+3. [at the top of the hill near CP3](images/village/CP3_hill.png) (spawns near CP3)
+4. [in the ruins at CP4](images/village/CP4_ruins.png) (spawns near the house behind CP1 or near the border of the CP4 road)
+5. [in the ruins behind CP2](images/village/CP2_ruins.png) (spawns near the road below CP2 ruins)
+6. [on the balcony above CP1](images/village/CP1_balcony.png) (spawns at the mill or near the house behind CP1)
+7. [on the roof above CP1](images/village/CP1_roof.png) (spawns at the mill or near the house behind CP1)
 
 ## Winter Market
 
@@ -166,10 +166,10 @@ Sniper locations:
 
 Sniper locations:  
 
-1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png)
-2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png)
-3. [on the ground near CP3](images/winter_market/CP3_corner.png) (never spawns before wave 4)
-4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (never spawns before wave 4)
+1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the hill)
+2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2)
+3. [on the ground near CP3](images/winter_market/CP3_corner.png) (spawns at CP3, never before wave 4)
+4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns, never before wave 4)
 
 ## References
 
@@ -188,4 +188,3 @@ https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b
 
 - add missing information
 - add more notes
-- add sniper spawn locations
