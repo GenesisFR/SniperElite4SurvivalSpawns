@@ -134,6 +134,7 @@ Sniper locations:
 | 7 |  | 25 |  | 29 | 1 sniper | 30 | 1 sniper | 30 |
 | 8 |  | 19 |  | 23 | 4 snipers | 31 | 4 snipers | 31 |
 | 9 | 2 snipers, 1 tank | 15 | 2 snipers, 1 tank | 19 | 3 snipers, 1 tank | 30 | 3 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
+| 10 |  | 20 | ??? | 22 | 1 sniper |  | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
 | 11 |  | 29 |  | 31 |  |  |  | 36 |
 | 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road (spawns on count of 20) and the road below CP2 ruins
 
