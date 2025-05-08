@@ -28,9 +28,9 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 | 2 |  | 14 | 1 sniper | 20 | 1 sniper | 25 | 1 sniper | 25 | the sniper spawns on count of 8
 | 3 |  | 15 |  | 21 |  |  |  | 26 |
 | 4 | 1 AB41 | 15 | 1 AB41 | 21 | 1 AB41 |  | 1 AB41 | 27 | the AB41 comes from the train tracks
-| 5 | 1 sniper | 19 | 3 snipers | 25 | 3 snipers |  | 3 snipers | 31 |
-| 6 | 1 tank | 19 | 1 tank | 25 | 1 tank |  | 1 tank | 31 | the tank comes from the tunnel
-| 7 |  | 20 |  | 27 |  |  |  | 33 |
+| 5 | 1 sniper | 19 | 3 snipers | 25 | 3 snipers | 31 | 3 snipers | 31 |
+| 6 | 1 tank | 19 | 1 tank | 25 | 1 tank | 31 | 1 tank | 31 | the tank comes from the tunnel
+| 7 |  | 20 |  | 27 |  | 33 |  | 33 |
 | 8 |  | 20 |  | 27 |  |  |  | 33 |
 | 9 | 2 snipers, 1 tank | 15 | 3 snipers, 1 tank | 22 | 3 snipers, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
 | 10 |  | 22 |  | 29 |  |  |  | 36 |
