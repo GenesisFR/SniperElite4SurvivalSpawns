@@ -62,7 +62,7 @@ Sniper locations:
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
 | 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper, the tank comes from the tunnel
-| 10 | 2 AB41 | 26 | 1 sniper |  | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 | Valkyrie sniper
+| 10 | 2 AB41 | 26 | 1 sniper, ??? |  | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 | Valkyrie sniper
 | 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 | 3-man+ only has Valkyrie snipers, 2-man only has one
 | 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks | 45 | 3 tanks | 47 | tanks come from the tunnel near fish house, hill (late spawn) and the castle road (4-man)
 
@@ -85,9 +85,9 @@ Sniper locations:
 | 2 | 14 | 19 |  | 22 |
 | 3 | 16 | 22 |  | 24 |
 | 4 | 16 | 22 |  | 25 |
-| 5 | 18 | 22 |  | 28 |
+| 5 | 18 | 22 | 28 | 28 |
 | 6 | 18 | 22 | 26 |  |
-| 7 | 18 | 22 |  | 28 |
+| 7 | 18 | 22 | 28 | 28 |
 | 8 | 18 | 24 | 28 | 28 |
 | 9 | 16 | 20 | 23 | 23 |
 | 10 | 20 | 26 | 30 | 30 |
@@ -104,7 +104,7 @@ Sniper locations:
 | 4 | 1 sniper | 20 | 1 sniper | 25 | 2 snipers | 31 | 2 snipers | 33 |
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
 | 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers | 33 | second sniper late?
-| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 15
+| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper
 | 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers | 34 | 2 snipers | 34 | Valkyrie snipers
 | 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers | 37 | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers | 38 | 3 snipers | 40 | Valkyrie snipers
@@ -141,7 +141,7 @@ Sniper locations:
 Sniper locations:  
 
 1. [around the house at CP2](images/village/CP2_house.png) (spawns inside the CP2 house or on the beach side)
-2. [at the top of the church](images/village/church.png) (rare)
+2. [at the top of the church](images/village/church.png) (rare, spawns near the road below CP2 ruins)
 3. [at the top of the hill near CP3](images/village/CP3_hill.png) (spawns near CP3)
 4. [in the ruins at CP4](images/village/CP4_ruins.png) (spawns near the house behind CP1 or near the border of the CP4 road)
 5. [in the ruins behind CP2](images/village/CP2_ruins.png) (spawns near the road below CP2 ruins)
