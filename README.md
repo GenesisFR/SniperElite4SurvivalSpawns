@@ -6,11 +6,9 @@ Please note that "solo" was done through a multiplayer lobby, not by selecting "
 
 You'll find red circles when looking at screenshots. Snipers periodically move between them after reaching their sniping spot.
 
-> [!CAUTION]
-**Valkyrie snipers can one shot you on Authentic Plus!**
-
 ## Table of Contents
 
+* [Notes about snipers](notes-about-snipers)
 * [Dockyard](#dockyard)
 * [Facility](#facility)
 * [Marina](#marina)
@@ -20,24 +18,37 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 * [References](#references)
 * [Credits](#credits)
 
+## Notes about snipers
+
+- They won't shoot you if you're 200m away from them.
+- They won't shoot you if you only see the top of their head or the side of their body.
+- They switch to their SMG if you're less than 25m away from them.
+- They usually don't stop to snipe you when they're on their way to their sniping spot.
+- To get rid of them, you can wait until they reposition or look away (90° angle), shoulder aim around a corner then scope in after staggering them or shoulder aim the entire time.
+- While all the numbers in this document are accurate, an additional sniper can spawn on very rare occasions.
+
+> [!CAUTION]
+**• Snipers can sometimes shoot you again before they fully recover from a stagger.**  
+**• Valkyrie snipers can kill you in one shot on Authentic Plus!**
+
 ## Dockyard
 
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 18 |  | 23 |  | 23 |
 | 2 |  | 14 | 1 sniper | 20 | 1 sniper | 25 | 1 sniper | 25 | the sniper spawns on count of 8
-| 3 |  | 15 |  | 21 |  |  |  | 26 |
-| 4 | 1 AB41 | 15 | 1 AB41 | 21 | 1 AB41 |  | 1 AB41 | 27 | the AB41 comes from the train tracks
+| 3 |  | 15 |  | 21 |  | 26 |  | 26 |
+| 4 | 1 AB41 | 15 | 1 AB41 | 21 | 1 AB41 | 27 | 1 AB41 | 27 | the AB41 comes from the train tracks
 | 5 | 1 sniper | 19 | 3 snipers | 25 | 3 snipers | 31 | 3 snipers | 31 |
 | 6 | 1 tank | 19 | 1 tank | 25 | 1 tank | 31 | 1 tank | 31 | the tank comes from the tunnel
 | 7 |  | 20 |  | 27 |  | 33 |  | 33 |
-| 8 |  | 20 |  | 27 |  |  |  | 33 |
-| 9 | 2 snipers, 1 tank | 15 | 3 snipers, 1 tank | 22 | 3 snipers, 1 tank |  | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
-| 10 |  | 22 |  | 29 |  |  |  | 36 |
-| 11 | 1 sniper | 27 | 2 snipers | 34 | 2 snipers |  | 2 snipers | 41 |
-| 12 | 2 tanks | 29 | 2 tanks | 36 | 2 tanks |  | 2 tanks | 44 |
+| 8 |  | 20 |  | 27 |  | 33 |  | 33 |
+| 9 | 2 snipers, 1 tank | 15 | 3 snipers, 1 tank | 22 | 3 snipers, 1 AB41, 1 tank | 28 | 3 snipers, 1 AB41, 1 tank | 28 | 2 snipers usually spawn at the back of CP2, the tank comes from the tunnel
+| 10 |  | 22 |  | 29 |  | 36 |  | 36 |
+| 11 | 1 sniper | 27 | 2 snipers | 34 | 2 snipers | 41 | 2 snipers | 41 |
+| 12 | 2 tanks | 29 | 2 tanks | 36 | 2 tanks | 44 | 2 tanks | 44 |
 
-Sniper locations:  
+Sniper locations:
 
 1. [above the train track, at one of the windows on the left](images/dockyard/train_track_window.png) (spawns above the train track)
 2. [above the train track, at the top of the stairs](images/dockyard/train_track_stairs.png) (spawns above the train track)
@@ -66,7 +77,7 @@ Sniper locations:
 | 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks |  | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 | 3-man+ only has Valkyrie snipers, 2-man only has one
 | 12 | 2 tanks | 30 | 2 tanks |  | 2 tanks | 45 | 3 tanks | 47 | tanks come from the tunnel near fish house, hill (late spawn) and the castle road (4-man)
 
-Sniper locations:  
+Sniper locations:
 
 1. [in the barracks between CP4 and the castle](images/facility/CP4_sea_barracks.png) (rare)
 2. [in the tower of the castle](images/facility/CP3_castle_tower.png) (spawns in the castle)
@@ -109,17 +120,17 @@ Sniper locations:
 | 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers | 37 | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers | 38 | 3 snipers | 40 | Valkyrie snipers
 | 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers | 40 | 2 snipers | 44 | Valkyrie snipers
-| 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers | 42 | 4 snipers | 44 | Valkyrie snipers
+| 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers | 42 | 4 snipers | 44 | Valkyrie snipers, one spawns on count of 28
 
-Sniper locations:  
+Sniper locations:
 
 1. [at the bell tower near CP2](images/urban/CP2_bell_tower_outside.png) ([inside view](images/urban/CP2_bell_tower_inside.png), spawns inside the bell tower)
 2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png) (spawns inside the cannon tower, never before wave 6)
 3. [at the round tower near CP4](images/urban/CP4_round_tower_outside.png) ([inside view](images/urban/CP4_round_tower_inside.png), spawns at the top of the round tower)
 4. [on the balcony above CP2](images/urban/CP2_balcony.png) (spawns near the cannon tower, never before wave 6)
-5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png) (spawns at the top of the round tower or behind propaganda, never before wave 6)
-6. [on the roof between propaganda and cannon tower](images/urban/CP1_other_roof.png) (rare, spawns on the ground between propaganda and cannon tower)
-7. [on the roof of propaganda](images/urban/CP1_propaganda.png) (never spawns before wave 4)
+5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png) (spawns at the top of the round tower or behind propaganda)
+6. [on the gas can terrace](images/urban/CP1_gas_can_terrace.png) (rare, spawns in the dark room below it, on the edge of the map)
+7. [on the roof of propaganda](images/urban/CP1_propaganda.png) (spawns near Kamgold's house, never before wave 4)
 
 ## Village
 
@@ -138,7 +149,7 @@ Sniper locations:
 | 11 |  | 29 |  | 31 |  |  |  | 36 |
 | 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road (spawns on count of 20) and the road below CP2 ruins
 
-Sniper locations:  
+Sniper locations:
 
 1. [around the house at CP2](images/village/CP2_house.png) (spawns inside the CP2 house or on the beach side)
 2. [at the top of the church](images/village/church.png) (rare, spawns near the road below CP2 ruins)
@@ -153,7 +164,7 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 16 |  | 20 |  | 20 |  |
-| 2 | 1 AB41 | 15 | 1 AB41 | 20 | 1 sniper, 1 AB41 | 23 | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns on count of 15 at the end of the wave on the hill
+| 2 | 1 AB41 | 15 | 1 AB41 | 20 | 1 sniper, 1 AB41 | 23 | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns on the hill on count of 15
 | 3 |  | 18 |  | 23 |  | 24 |  | 24 |  |
 | 4 | 1 AB41 | 17 | ??? | 20 | 1 tank | 23 | 1 tank | 23 | the tank comes from the left side of CP1
 | 5 | 2 snipers | 20 | 2 snipers | 23 | 3 snipers | 26 | 3 snipers (1 end of wave) | 26 |
@@ -165,7 +176,7 @@ Sniper locations:
 | 11 |  | 29 |  | 31 |  | 36 |  | 36 |
 | 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks | 46 | 2 snipers, 2 tanks | 46 | the tank on the left side of CP1 spawns on count of 25
 
-Sniper locations:  
+Sniper locations:
 
 1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the hill)
 2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2)
