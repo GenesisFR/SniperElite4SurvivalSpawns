@@ -8,7 +8,7 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 
 ## Table of Contents
 
-* [Notes about snipers](notes-about-snipers)
+* [Notes about snipers](#notes-about-snipers)
 * [Dockyard](#dockyard)
 * [Facility](#facility)
 * [Marina](#marina)
