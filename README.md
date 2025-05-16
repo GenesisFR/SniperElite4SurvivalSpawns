@@ -25,7 +25,8 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 - They switch to their SMG if you're less than 25m away from them.
 - They usually don't stop to snipe you when they're on their way to their sniping spot.
 - To get rid of them, you can wait until they reposition or look away (90° angle), shoulder aim around a corner then scope in after staggering them or shoulder aim the entire time.
-- While all the numbers in this document are accurate, an additional sniper can spawn on very rare occasions.
+- Two snipers can be at the some location on rare occasions (at the same time or at different times during the same wave).
+- While all the numbers in this document are accurate, an additional sniper can spawn on extremely rare occasions (usually during waves with 3 or 4 snipers).
 
 > [!CAUTION]
 **• Snipers can sometimes shoot you again before they fully recover from a stagger.**  
@@ -65,8 +66,8 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 | 1 truck | 16 | 1 truck | 24 | 1 truck | 30 | 1 truck | 30 |
-| 2 | 1 AB41 | 16 | 1 sniper, 1 AB41 |  | 2 snipers, 1 AB41 | 30 | 2 snipers, 1 AB41 | 32 |
-| 3 | 1 half-track | 20 | 1 sniper, 1 half-track | 27 | 2 snipers, 1 half-track |  | 2 snipers, 2 half-tracks | 34 |
+| 2 | 1 AB41 | 16 | 1 sniper, 1 AB41 | 24 | 2 snipers, 1 AB41 | 30 | 2 snipers, 1 AB41 | 32 |
+| 3 | 1 half-track | 20 | 1 sniper, 1 half-track | 27 | 2 snipers, 1 half-track | 32 | 2 snipers, 2 half-tracks | 34 |
 | 4 | 1 sniper, 1 AB41 | 20 | 1 sniper, 1 AB41 | 26 | 1 sniper, 1 AB41 | 34 | 1 sniper, 1 AB41 | 34 |
 | 5 | 1 sniper, 1 KFZ222, 1 truck | 22 | 2 snipers, 1 KFZ222, 1 truck | 31 | 3 snipers, 1 KFZ222, 1 truck | 38 | 3 snipers, 1 KFZ222, 1 truck | 40 | 3-man+ has one Valkyrie sniper
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
@@ -151,11 +152,11 @@ Sniper locations:
 
 Sniper locations:
 
-1. [around the house at CP2](images/village/CP2_house.png) (spawns inside the CP2 house or on the beach side)
+1. [around the house at CP2](images/village/CP2_house.png) (spawns inside the CP2 house, on the beach side or in the graveyard near CP2 ruins)
 2. [at the top of the church](images/village/church.png) (rare, spawns near the road below CP2 ruins)
 3. [at the top of the hill near CP3](images/village/CP3_hill.png) (spawns near CP3)
 4. [in the ruins at CP4](images/village/CP4_ruins.png) (spawns near the house behind CP1 or near the border of the CP4 road)
-5. [in the ruins behind CP2](images/village/CP2_ruins.png) (spawns near the road below CP2 ruins)
+5. [in the ruins behind CP2](images/village/CP2_ruins.png) (spawns near the road below CP2 ruins or in the graveyard near CP2 ruins)
 6. [on the balcony above CP1](images/village/CP1_balcony.png) (spawns at the mill or near the house behind CP1)
 7. [on the roof above CP1](images/village/CP1_roof.png) (spawns at the mill or near the house behind CP1)
 
@@ -179,9 +180,9 @@ Sniper locations:
 Sniper locations:
 
 1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the hill)
-2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2)
+2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2 or in the corner of the map next to CP3)
 3. [on the ground near CP3](images/winter_market/CP3_corner.png) (spawns at CP3, never before wave 4)
-4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns, never before wave 4)
+4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns in the corner of the map next to CP3, never before wave 4)
 
 ## References
 
