@@ -51,14 +51,14 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 
 Sniper locations:
 
-1. [above the train track, at one of the windows on the left](images/dockyard/train_track_window.png) (spawns above the train track)
-2. [above the train track, at the top of the stairs](images/dockyard/train_track_stairs.png) (spawns above the train track)
-3. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, spawns at the fort, never before wave 3)
-4. [on the first floor of CP2, at one of the windows](images/dockyard/CP2_windows.png) (spawns behind CP2, never before wave 6)
-5. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare, never spawns before wave 9)
-6. [on the roof near CP3](images/dockyard/CP3_roof.png) (spawns at the CP3 fort or in the warehouse near tunnel)
-7. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2, never before wave 6)
-8. [on the upper level of the armory, at one of the windows](images/dockyard/CP2_armory.png) (spawns behind the armory, never before wave 6)
+1. [above the armory, at one of the windows](images/dockyard/CP2_armory.png) (spawns behind the armory, never before wave 3)
+2. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, spawns at the fort, never before wave 3)
+3. [at the train station, at one of the windows on the left](images/dockyard/train_station_window.png) (spawns behind the train station)
+4. [at the train station, at the top of the stairs](images/dockyard/train_station_stairs.png) (spawns behind the train station)
+5. [on the first floor of CP2, at one of the square windows](images/dockyard/CP2_windows.png) (spawns behind CP2, never before wave 6)
+6. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare, never spawns before wave 9)
+7. [on the roof near CP3](images/dockyard/CP3_roof.png) (spawns at the CP3 fort or in the warehouse near tunnel)
+8. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2, never before wave 6)
 9. [outside the tunnel near CP1](images/dockyard/outside_tunnel.png) (spawns in the tunnel)
 
 ## Facility
