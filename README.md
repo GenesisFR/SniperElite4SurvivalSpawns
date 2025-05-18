@@ -25,7 +25,7 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 - They switch to their SMG if you're less than 25m away from them.
 - They usually don't stop to snipe you when they're on their way to their sniping spot.
 - To get rid of them, you can wait until they reposition or look away (90° angle), shoulder aim around a corner then scope in after staggering them or shoulder aim the entire time.
-- Two snipers can be at the some location on rare occasions (at the same time or at different times during the same wave).
+- Two snipers can spawn and/or be at the same location on rare occasions (at the same time or at different times during the same wave).
 - While all the numbers in this document are accurate, an additional sniper can spawn on extremely rare occasions (usually during waves with 3 or 4 snipers).
 
 > [!CAUTION]
@@ -145,15 +145,15 @@ Sniper locations:
 | 6 |  | 18 |  | 21 | 1 sniper | 26 | 1 sniper, 1 tank | 26 | the tank comes from the road below CP2 ruins
 | 7 |  | 25 |  | 29 | 1 sniper | 30 | 1 sniper | 30 |
 | 8 |  | 19 |  | 23 | 4 snipers | 31 | 4 snipers | 31 |
-| 9 | 2 snipers, 1 tank | 15 | 2 snipers, 2 tanks | 19 | 3 snipers, 1 tank | 30 | 3 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
-| 10 |  | 20 | ??? | 22 | 1 sniper |  | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
-| 11 |  | 29 |  | 31 |  |  |  | 36 |
-| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks |  | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road (spawns on count of 20) and the road below CP2 ruins
+| 9 | 2 snipers, 1 tank | 15 | 2 snipers, 2 tanks | 19 | 3 snipers, 2 tanks | 30 | 3 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
+| 10 |  | 20 | ??? | 22 | 1 sniper, 1 AB41 | 34 | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
+| 11 |  | 29 |  | 31 |  | 36 |  | 36 |
+| 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks | 46 | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road (spawns on count of 20) and the road below CP2 ruins, second sniper spawns at the end of the wave
 
 Sniper locations:
 
 1. [around the house at CP2](images/village/CP2_house.png) (spawns inside the CP2 house, on the beach side or in the graveyard near CP2 ruins)
-2. [at the top of the church](images/village/church.png) (rare, spawns near the road below CP2 ruins)
+2. [at the top of the church](images/village/church.png) (rare, spawns near the road below CP2 ruins or in the graveyard near CP2 ruins)
 3. [at the top of the hill near CP3](images/village/CP3_hill.png) (spawns near CP3)
 4. [in the ruins at CP4](images/village/CP4_ruins.png) (spawns near the house behind CP1 or near the border of the CP4 road)
 5. [in the ruins behind CP2](images/village/CP2_ruins.png) (spawns near the road below CP2 ruins or in the graveyard near CP2 ruins)
