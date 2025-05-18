@@ -55,10 +55,10 @@ Sniper locations:
 2. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, spawns at the fort, never before wave 3)
 3. [at the train station, at one of the windows on the left](images/dockyard/train_station_window.png) (spawns behind the train station)
 4. [at the train station, at the top of the stairs](images/dockyard/train_station_stairs.png) (spawns behind the train station)
-5. [on the first floor of CP2, at one of the square windows](images/dockyard/CP2_windows.png) (spawns behind CP2, never before wave 6)
+5. [on the first floor of CP2, at one of the square windows](images/dockyard/CP2_windows.png) (spawns behind CP2 or behind the armory, never before wave 6)
 6. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare, never spawns before wave 9)
 7. [on the roof near CP3](images/dockyard/CP3_roof.png) (spawns at the CP3 fort or in the warehouse near tunnel)
-8. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2, never before wave 6)
+8. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2 or behind the armory, never before wave 6)
 9. [outside the tunnel near CP1](images/dockyard/outside_tunnel.png) (spawns in the tunnel)
 
 ## Facility
@@ -93,12 +93,12 @@ Sniper locations:
 
 | Wave | Solo # | 2 players # | 3 players # | 4 players # |
 | :--: | :----: | :---------: | :---------: | :---------: |
-| 1 | 12 | 18 |  | 20 |
-| 2 | 14 | 19 |  | 22 |
-| 3 | 16 | 22 |  | 24 |
-| 4 | 16 | 22 |  | 25 |
+| 1 | 12 | 18 | 20 | 20 |
+| 2 | 14 | 19 | 22 | 22 |
+| 3 | 16 | 22 | 24 | 24 |
+| 4 | 16 | 22 | 25 | 25 |
 | 5 | 18 | 22 | 28 | 28 |
-| 6 | 18 | 22 | 26 |  |
+| 6 | 18 | 22 | 26 | 28 |
 | 7 | 18 | 22 | 28 | 28 |
 | 8 | 18 | 24 | 28 | 28 |
 | 9 | 16 | 20 | 23 | 23 |
