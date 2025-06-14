@@ -146,7 +146,7 @@ Sniper locations:
 | 7 |  | 25 |  | 29 | 1 sniper | 30 | 1 sniper | 30 |
 | 8 |  | 19 |  | 23 | 4 snipers | 31 | 4 snipers | 31 |
 | 9 | 2 snipers, 1 tank | 15 | 2 snipers, 2 tanks | 19 | 3 snipers, 2 tanks | 30 | 3 snipers, 2 tanks | 30 | tanks come from the CP4 road (4-man) and the road below CP2 ruins
-| 10 |  | 20 | ??? | 22 | 1 sniper, 1 AB41 | 34 | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
+| 10 |  | 20 |  | 22 | 1 sniper, 1 AB41 | 34 | 1 sniper, 1 AB41 | 34 | the AB41 comes from the road near CP1
 | 11 |  | 29 |  | 31 |  | 36 |  | 36 |
 | 12 | 2 tanks | 31 | 2 tanks | 34 | 2 snipers, 2 tanks | 46 | 2 snipers, 2 tanks | 46 | tanks come from the CP4 road (spawns on count of 20) and the road below CP2 ruins, second sniper spawns at the end of the wave
 
@@ -180,9 +180,9 @@ Sniper locations:
 Sniper locations:
 
 1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the hill)
-2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2 or in the corner of the map next to CP3)
+2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2, in the corner of the map next to CP3 or on the hill)
 3. [on the ground near CP3](images/winter_market/CP3_corner.png) (spawns at CP3, never before wave 4)
-4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns in the corner of the map next to CP3, never before wave 4)
+4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns in the corner of the map next to CP3, in the checkpoint house on the main road or on the hill, never before wave 4)
 
 ## References
 
@@ -199,5 +199,4 @@ https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b
 
 ## TO-DO
 
-- add missing information
 - add more notes
