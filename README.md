@@ -116,22 +116,22 @@ Sniper locations:
 | 4 | 1 sniper | 20 | 1 sniper | 25 | 2 snipers | 31 | 2 snipers | 33 |
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
 | 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers | 33 | second sniper late?
-| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 15
-| 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers | 34 | 2 snipers | 34 | Valkyrie snipers
+| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 23 (15 when solo)
+| 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers | 34 | 2 snipers | 34 | Valkyrie snipers, one spawns on count of 23 (4-man)
 | 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers | 37 | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers | 38 | 3 snipers | 40 | Valkyrie snipers
 | 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers | 40 | 2 snipers | 44 | Valkyrie snipers
-| 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers | 42 | 4 snipers | 44 | Valkyrie snipers, one spawns on count of 28
+| 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers | 42 | 4 snipers | 44 | Valkyrie snipers, one spawns on count of 28 (4-man)
 
 Sniper locations:
 
 1. [at the bell tower near CP2](images/urban/CP2_bell_tower_outside.png) ([inside view](images/urban/CP2_bell_tower_inside.png), spawns inside the bell tower)
 2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png) (spawns inside the cannon tower, never before wave 6)
 3. [at the round tower near CP4](images/urban/CP4_round_tower_outside.png) ([inside view](images/urban/CP4_round_tower_inside.png), spawns at the top of the round tower)
-4. [on the balcony above CP2](images/urban/CP2_balcony.png) (spawns near the cannon tower, never before wave 6)
+4. [on the balcony above CP2](images/urban/CP2_balcony.png) (spawns near the cannon tower or at the back of CP2, never before wave 6)
 5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png) (spawns at the top of the round tower or behind propaganda)
 6. [on the gas can terrace](images/urban/CP1_gas_can_terrace.png) (rare, spawns in the dark room below it, on the edge of the map)
-7. [on the roof of propaganda](images/urban/CP1_propaganda.png) (spawns near Kamgold's house, never before wave 4)
+7. [on the roof of propaganda](images/urban/CP1_propaganda.png) (spawns near Kamgold's house at the bottom of the round tower or in the dark room below the gas can terrace, never before wave 4)
 
 ## Village
 
@@ -165,10 +165,10 @@ Sniper locations:
 | Wave | Solo | # | 2 players | # | 3 players | # | 4 players | # | Notes |
 | :--: | ---- | - | --------- | - | --------- | - | --------- | - | ----- |
 | 1 |  | 12 |  | 16 |  | 20 |  | 20 |  |
-| 2 | 1 AB41 | 15 | 1 AB41 | 20 | 1 sniper, 1 AB41 | 23 | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns on the hill on count of 18
+| 2 | 1 AB41 | 15 | 1 AB41 | 20 | 1 sniper, 1 AB41 | 23 | 1 sniper, 1 AB41 | 23 | the AB41 usually comes from the left side of CP1 (otherwise from the CP2 road) and the sniper usually spawns on the hill on count of 18 (4-man)
 | 3 |  | 18 |  | 23 |  | 24 |  | 24 |  |
 | 4 | 1 AB41 | 17 | 1 AB41 | 20 | 1 tank | 23 | 1 tank | 23 | the tank comes from the left side of CP1
-| 5 | 2 snipers | 20 | 2 snipers | 23 | 3 snipers | 26 | 3 snipers (1 end of wave) | 26 |
+| 5 | 2 snipers | 20 | 2 snipers | 23 | 3 snipers | 26 | 3 snipers | 26 | one spawns near the end of the wave (4-man)
 | 6 | 1 AB41 | 19 | 1 AB41 | 22 | 1 sniper, 1 tank | 27 | 1 sniper, 1 tank | 27 |
 | 7 | 1 KFZ222 | 26 | 1 KFZ222 | 30 | 1 sniper, 1 KFZ222 | 31 | 1 sniper, 1 KFZ222 | 31 |
 | 8 |  | 19 |  | 23 | 4 snipers | 31 | 4 snipers | 31 |
