@@ -27,10 +27,11 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 - To get rid of them, you can wait until they reposition or look away (90° angle), shoulder aim around a corner then scope in after staggering them or shoulder aim the entire time.
 - Two snipers can spawn and/or be at the same location on rare occasions (at the same time or at different times during the same wave).
 - While all the numbers in this document are accurate, an additional sniper can spawn on extremely rare occasions (usually during waves with 3 or 4 snipers).
+- You can somehow prevent snipers from spawning in a given location by staying near it at the beginning of a wave (doesn't work on all locations).
 
 > [!CAUTION]
 **• Snipers can sometimes shoot you again before they fully recover from a stagger.**  
-**• Valkyrie snipers can kill you in one shot on Authentic Plus!**
+**• Valkyrie snipers can kill you in one shot (even if you're full HP) on Authentic Plus!**
 
 ## Dockyard
 
@@ -179,10 +180,10 @@ Sniper locations:
 
 Sniper locations:
 
-1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the hill)
-2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2, in the corner of the map next to CP3 or on the hill)
+1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the CP4 hill)
+2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2, in the corner of the map next to CP3 or on the CP2 hill)
 3. [on the ground near CP3](images/winter_market/CP3_corner.png) (spawns at CP3, never before wave 4)
-4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns in the corner of the map next to CP3, in the checkpoint house on the main road or on the hill, never before wave 4)
+4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns in the corner of the map next to CP3, in the checkpoint house on the main road, on the CP4 hill or behind CP2, never before wave 4)
 
 ## References
 
@@ -194,7 +195,7 @@ https://github.com/user-attachments/assets/f78fe447-ec5b-4824-9a03-fbe24ea79a0b
 
 ## Credits
 
-- [changc009](https://github.com/changc009): helped with some sniper spawns
+- [Bayonetta](https://www.youtube.com/@everytwocc): helped with some sniper spawns
 - [TJDx2](https://www.reddit.com/user/TJDx2): helped with some spawns
 
 ## TO-DO
