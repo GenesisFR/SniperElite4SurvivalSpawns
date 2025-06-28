@@ -52,14 +52,14 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 
 Sniper locations:
 
-1. [above the armory, at one of the windows](images/dockyard/CP2_armory.png) (spawns behind the armory, never before wave 3)
-2. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, spawns at the fort, never before wave 3)
+1. [above the armory, at one of the windows](images/dockyard/CP2_armory.png) (spawns behind the armory, never before wave 4)
+2. [at the fort near CP3](images/dockyard/CP3_fort.png) (rare, spawns at the fort, never before wave 4)
 3. [at the train station, at one of the windows on the left](images/dockyard/train_station_window.png) (spawns behind the train station)
 4. [at the train station, at the top of the stairs](images/dockyard/train_station_stairs.png) (spawns behind the train station)
-5. [on the first floor of CP2, at one of the square windows](images/dockyard/CP2_windows.png) (spawns behind CP2 or behind the armory, never before wave 6)
-6. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare, never spawns before wave 9)
+5. [on the first floor of CP2, at one of the square windows](images/dockyard/CP2_windows.png) (spawns behind CP2 or behind the armory, never before wave 7)
+6. [on the roof between CP1 and CP2](images/dockyard/CP1_roof.png) (rare, never spawns before wave 10)
 7. [on the roof near CP3](images/dockyard/CP3_roof.png) (spawns at the CP3 fort or in the warehouse near tunnel)
-8. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2 or behind the armory, never before wave 6)
+8. [on the second floor of CP2, at the round window](images/dockyard/CP2_round_window.png) (spawns behind CP2 or behind the armory, never before wave 7)
 9. [outside the tunnel near CP1](images/dockyard/outside_tunnel.png) (spawns in the tunnel)
 
 ## Facility
@@ -118,8 +118,8 @@ Sniper locations:
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
 | 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers | 33 | second sniper late?
 | 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 23 (15 when solo)
-| 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers | 34 | 2 snipers | 34 | Valkyrie snipers, one spawns on count of 23 (4-man)
-| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers | 37 | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16
+| 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers | 34 | 2 snipers | 34 | Valkyrie snipers
+| 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers | 37 | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16 (4-man)
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers | 38 | 3 snipers | 40 | Valkyrie snipers
 | 11 | 2 snipers | 29 | 2 snipers | 37 | 2 snipers | 40 | 2 snipers | 44 | Valkyrie snipers
 | 12 | 2 snipers | 31 | 3 snipers | 36 | 4 snipers | 42 | 4 snipers | 44 | Valkyrie snipers, one spawns on count of 28 (4-man)
@@ -127,9 +127,9 @@ Sniper locations:
 Sniper locations:
 
 1. [at the bell tower near CP2](images/urban/CP2_bell_tower_outside.png) ([inside view](images/urban/CP2_bell_tower_inside.png), spawns inside the bell tower)
-2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png) (spawns inside the cannon tower, never before wave 6)
+2. [at the cannon tower behind CP3](images/urban/CP3_cannon_tower.png) (spawns inside the cannon tower, never before wave 7)
 3. [at the round tower near CP4](images/urban/CP4_round_tower_outside.png) ([inside view](images/urban/CP4_round_tower_inside.png), spawns at the top of the round tower)
-4. [on the balcony above CP2](images/urban/CP2_balcony.png) (spawns near the cannon tower or at the back of CP2, never before wave 6)
+4. [on the balcony above CP2](images/urban/CP2_balcony.png) (spawns near the cannon tower or at the back of CP2, never before wave 7)
 5. [on the balcony of beer garden near CP4](images/urban/CP4_beer_garden.png) (spawns at the top of the round tower or behind propaganda)
 6. [on the gas can terrace](images/urban/CP1_gas_can_terrace.png) (rare, spawns in the dark room below it, on the edge of the map)
 7. [on the roof of propaganda](images/urban/CP1_propaganda.png) (spawns near Kamgold's house at the bottom of the round tower or in the dark room below the gas can terrace, never before wave 4)
