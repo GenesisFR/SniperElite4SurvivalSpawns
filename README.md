@@ -31,7 +31,7 @@ You'll find red circles when looking at screenshots. Snipers periodically move b
 
 > [!CAUTION]
 **• Snipers can sometimes shoot you again before they fully recover from a stagger.**  
-**• Valkyrie snipers can kill you in one shot (even if you're full HP) on Authentic Plus!**
+**• Italian/Valkyrie snipers can kill you in one shot (even if you're full HP) on Authentic Plus!**
 
 ## Dockyard
 
