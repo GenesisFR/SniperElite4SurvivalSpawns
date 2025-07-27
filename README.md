@@ -74,10 +74,10 @@ Sniper locations:
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
 | 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
-| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 1 half-track, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper, the tank comes from the tunnel
+| 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 2 half-tracks, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper, the tank comes from the tunnel
 | 10 | 2 AB41 | 26 | 1 sniper, 2 AB41 | 34 | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 | Valkyrie sniper
 | 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks | 38 | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 | 3-man+ only has Valkyrie snipers, 2-man only has one
-| 12 | 2 tanks | 30 | 2 tanks | 39 | 2 tanks | 45 | 3 tanks | 47 | tanks come from the tunnel near fish house, hill (late spawn) and the castle road (4-man)
+| 12 | 2 tanks | 30 | 2 tanks | 39 | 2 tanks | 45 | 3 tanks | 47 | tanks come from the tunnel near fish house, the castle road and the hill (4-man, late spawn)
 
 Sniper locations:
 
