@@ -73,7 +73,7 @@ Sniper locations:
 | 5 | 1 sniper, 1 KFZ222, 1 truck | 22 | 2 snipers, 1 KFZ222, 1 truck | 31 | 3 snipers, 1 KFZ222, 1 truck | 38 | 3 snipers, 1 KFZ222, 1 truck | 40 | 3-man+ has one Valkyrie sniper
 | 6 | 1 half-track | 22 | 1 half-track, 1 tank | 30 | 1 half-track, 1 tank | 38 | 1 half-track, 1 tank | 40 |
 | 7 | 1 sniper, 1 AB41 | 22 | 2 snipers, 1 AB41 | 30 | 3 snipers, 1 AB41 | 38 | 3 snipers, 1 AB41 | 40 |
-| 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 1 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
+| 8 | 1 KFZ222, 1 AB41 | 22 | 1 AB41, 2 KFZ222 | 30 | 1 sniper, 2 AB41, 2 KFZ222 | 38 | 1 sniper, 2 AB41, 2 KFZ222 | 40 |
 | 9 | 2 snipers, 1 half-track, 1 tank | 22 | 3 snipers, 1 half-track, 1 tank | 30 | 3 snipers, 2 half-tracks, 1 tank | 40 | 3 snipers, 2 half-tracks, 1 tank | 42 | 3-man+ has one Valkyrie sniper, the tank comes from the tunnel
 | 10 | 2 AB41 | 26 | 1 sniper, 2 AB41 | 34 | 1 sniper, 1 AB41, 1 KFZ222 | 40 | 1 sniper, 2 AB41, 1 KFZ222 | 42 | Valkyrie sniper
 | 11 | 1 sniper, 1 half-track | 28 | 2 snipers, 2 half-tracks | 38 | 2 snipers, 2 half-tracks | 45 | 2 snipers, 2 half-tracks | 47 | 3-man+ only has Valkyrie snipers, 2-man only has one
@@ -117,7 +117,7 @@ Sniper locations:
 | 4 | 1 sniper | 20 | 1 sniper | 25 | 2 snipers | 31 | 2 snipers | 33 |
 | 5 |  | 20 |  | 25 |  | 30 |  | 33 |  |
 | 6 | 1 sniper | 22 | 2 snipers | 26 | 2 snipers | 32 | 2 snipers | 33 | second sniper late?
-| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 23 (15 when solo)
+| 7 | 1 sniper | 25 | 1 sniper | 29 | 1 sniper | 34 | 1 sniper | 36 |  Valkyrie sniper, spawns on count of 26 (15 when solo)
 | 8 | 2 snipers | 22 | 2 snipers | 28 | 2 snipers | 34 | 2 snipers | 34 | Valkyrie snipers
 | 9 | 1 sniper | 25 | 3 snipers | 31 | 2 snipers | 37 | 3 snipers | 39 |  Valkyrie snipers, last one spawns on count of 16 (4-man)
 | 10 | 2 snipers | 26 | 3 snipers | 34 | 3 snipers | 38 | 3 snipers | 40 | Valkyrie snipers
@@ -180,7 +180,7 @@ Sniper locations:
 
 Sniper locations:
 
-1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the CP4 hill)
+1. [at the top of the hill behind CP4](images/winter_market/CP4_hill.png) (spawns at the top of the CP4 hill or CP2 hill)
 2. [on the first floor of the house at CP2](images/winter_market/CP2_house.png) (spawns near the castle behind CP2, in the corner of the map next to CP3 or on the CP2 hill)
 3. [on the ground near CP3](images/winter_market/CP3_corner.png) (spawns at CP3, never before wave 4)
 4. [on the roof with the stairs at CP1](images/winter_market/CP1_roof.png) (spawns in the corner of the map next to CP3, in the checkpoint house on the main road, on the CP4 hill or behind CP2, never before wave 4)
